@@ -65,10 +65,10 @@ export function PresenterView({
   const vistoEm = useRef(Date.now());
   const vistoSlide = useRef(slide.n);
   const [nota, setNota] = useState(() => {
-    try { return localStorage.getItem(`deck-keynote-expert:nota:${slide.n}`) || ""; } catch { return ""; }
+    try { return localStorage.getItem(`deck-lps-slide-aula06:nota:${slide.n}`) || ""; } catch { return ""; }
   });
 
-  useEffect(() => { try { localStorage.setItem(`deck-keynote-expert:nota:${slide.n}`, nota); } catch { /* storage opcional */ } }, [slide.n, nota]);
+  useEffect(() => { try { localStorage.setItem(`deck-lps-slide-aula06:nota:${slide.n}`, nota); } catch { /* storage opcional */ } }, [slide.n, nota]);
   useEffect(() => {
     const anterior = vistoEm.current;
     vistoEm.current = Date.now();

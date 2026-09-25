@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 import path from "path";
 
 export default defineConfig({
-  base: "/keynote-expert/",
+  base: "/p/lps-slide-aula06/",
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
@@ -13,7 +13,7 @@ export default defineConfig({
   },
   root: path.resolve(import.meta.dirname),
   build: {
-    outDir: path.resolve(import.meta.dirname, "dist/keynote-expert"),
+    outDir: path.resolve(import.meta.dirname, "dist/lps-slide-aula06"),
     emptyOutDir: true,
     target: "esnext",
     minify: "esbuild",

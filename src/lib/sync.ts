@@ -22,7 +22,7 @@ export type Msg =
   | { type: "here"; slide: number; passo?: number };
 
 /** Um canal por deck: dois decks abertos na mesma origem não se cruzam. */
-export const CANAL = "deck-keynote-expert";
+export const CANAL = "deck-lps-slide-aula06";
 
 /**
  * Sem BroadcastChannel (navegador antigo, contexto sem suporte), retorna
