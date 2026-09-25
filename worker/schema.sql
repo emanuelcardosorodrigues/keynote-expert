@@ -2,6 +2,7 @@ CREATE TABLE IF NOT EXISTS users (
   id TEXT PRIMARY KEY,
   email TEXT NOT NULL UNIQUE,
   role TEXT NOT NULL DEFAULT 'presenter' CHECK (role IN ('admin', 'presenter')),
+  password_hash TEXT,
   active INTEGER NOT NULL DEFAULT 1,
   created_at TEXT NOT NULL DEFAULT (datetime('now'))
 );

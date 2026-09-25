@@ -27,18 +27,23 @@ async function user(request: Request, env: Env) {
 }
 
 async function login(request: Request, env: Env) {
-  const body = await request.json().catch(() => null) as { password?: string } | null;
-  if (!body?.password || (await digest(body.password)).toLowerCase() !== env.ADMIN_PASSWORD_SHA256.toLowerCase()) return json({ error: "invalid_credentials" }, 401);
+  const body = await request.json().catch(() => null) as { email?: string; password?: string } | null;
+  if (!body?.password) return json({ error: "invalid_credentials" }, 401);
+  const email = (body.email || "admin").toLowerCase();
+  const hash = await digest(body.password);
+  const account = await env.DB.prepare("SELECT id, email, role, password_hash FROM users WHERE email=? AND active=1").bind(email).first<{ id: string; email: string; role: string; password_hash: string | null }>();
+  const valid = email === "admin" ? hash.toLowerCase() === env.ADMIN_PASSWORD_SHA256.toLowerCase() : Boolean(account?.password_hash && hash === account.password_hash);
+  if (!valid) return json({ error: "invalid_credentials" }, 401);
   const token = `${crypto.randomUUID()}${crypto.randomUUID()}`;
   const days = Number(env.SESSION_DAYS || 90);
   const expires = new Date(Date.now() + days * 86400000).toISOString().replace("T", " ").replace("Z", "");
-  const existing = await env.DB.prepare("SELECT id FROM users WHERE email='admin' LIMIT 1").first<{ id: string }>();
+  const existing = account || await env.DB.prepare("SELECT id FROM users WHERE email='admin' LIMIT 1").first<{ id: string }>();
   const uid = existing?.id || id();
   await env.DB.batch([
     env.DB.prepare("INSERT OR IGNORE INTO users (id,email,role) VALUES (?,?,'admin')").bind(uid, "admin"),
     env.DB.prepare("INSERT OR REPLACE INTO sessions (token_hash,user_id,expires_at) VALUES (?,?,?)").bind(await digest(token), uid, expires),
   ]);
-  return new Response(JSON.stringify({ user: { id: uid, email: "admin", role: "admin" } }), { headers: { ...JSON_HEADERS, "set-cookie": `${COOKIE}=${token}; Path=/; HttpOnly; Secure; SameSite=Strict; Max-Age=${days * 86400}` } });
+  return new Response(JSON.stringify({ user: { id: uid, email: account?.email || "admin", role: account?.role || "admin" } }), { headers: { ...JSON_HEADERS, "set-cookie": `${COOKIE}=${token}; Path=/; HttpOnly; Secure; SameSite=Strict; Max-Age=${days * 86400}` } });
 }
 
 async function api(request: Request, env: Env, url: URL) {
@@ -50,9 +55,9 @@ async function api(request: Request, env: Env, url: URL) {
   if (current.role !== "admin") return json({ error: "forbidden" }, 403);
   if (url.pathname === "/api/admin/users" && request.method === "GET") return json(await env.DB.prepare("SELECT id,email,role,active,created_at FROM users ORDER BY created_at DESC").all());
   if (url.pathname === "/api/admin/users" && request.method === "POST") {
-    const b = await request.json() as { email?: string; role?: string };
-    if (!b.email || !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(b.email)) return json({ error: "invalid_email" }, 400);
-    await env.DB.prepare("INSERT INTO users (id,email,role) VALUES (?,?,?)").bind(id(), b.email.toLowerCase(), b.role === "admin" ? "admin" : "presenter").run();
+    const b = await request.json() as { email?: string; password?: string; role?: string };
+    if (!b.email || !b.password || b.password.length < 10 || !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(b.email)) return json({ error: "invalid_user" }, 400);
+    await env.DB.prepare("INSERT INTO users (id,email,role,password_hash) VALUES (?,?,?,?)").bind(id(), b.email.toLowerCase(), b.role === "admin" ? "admin" : "presenter", await digest(b.password)).run();
     return json({ ok: true }, 201);
   }
   const userMatch = url.pathname.match(/^\/api\/admin\/users\/([^/]+)$/);

@@ -32,7 +32,7 @@ npx wrangler secret put ADMIN_PASSWORD_SHA256 --local
 npx wrangler dev
 ```
 
-O valor do segredo é o SHA-256 hexadecimal da senha (nunca commite a senha ou o hash).
+O valor do segredo é o SHA-256 hexadecimal da senha da conta `admin` (nunca commite a senha ou o hash). Usuários criados no admin recebem email e senha próprios, armazenados apenas como hash.
 
 ## Deploy Cloudflare Workers + D1
 
