@@ -1,0 +1,1 @@
+{"name":"lps-slide-aula06-worker","private":true,"type":"module","scripts":{"typecheck":"tsc --noEmit","dev":"wrangler dev","deploy":"wrangler deploy"},"devDependencies":{"@cloudflare/workers-types":"^5.20260925.2","typescript":"^5.8.3","wrangler":"^4.90.0"}}

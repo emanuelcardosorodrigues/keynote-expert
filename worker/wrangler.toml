@@ -1,0 +1,17 @@
+name = "lps-slide-aula06"
+main = "src/index.ts"
+compatibility_date = "2026-09-25"
+
+[assets]
+directory = "../dist/lps-slide-aula06"
+binding = "ASSETS"
+not_found_handling = "single-page-application"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "lps-slide-aula06"
+database_id = "COLOQUE_O_DATABASE_ID_AQUI"
+migrations_dir = "migrations"
+
+[vars]
+SESSION_DAYS = "90"

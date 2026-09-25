@@ -1,0 +1,392 @@
+@import "tailwindcss";
+
+/* ═══════════════════════════════════════════════════════════════
+   Tokens
+
+   Herdados do código real de pda-proposta-alex-barreira, os mesmos do
+   deck da Aula 2. Os valores estimados no briefing (navy #14141F, ouro
+   #A8862F) continuam errados para a marca: ela é charcoal + creme +
+   ouro #C8A84E.
+
+   A exceção é o tema `cold`, que NÃO é token de marca: é a superfície
+   fria da virada do slide 20, criada para este deck. Ela muda só a
+   temperatura do neutro; o ouro segue sendo o único acento.
+   ═══════════════════════════════════════════════════════════════ */
+
+@theme inline {
+  --color-warm-50: #FAF9F7;
+  --color-cream: #F7F3EB;
+  --color-charcoal: #1A1A1A;
+
+  --color-gold: #C8A84E;
+  --color-gold-deep: #A8893A;
+  --color-gold-light: #D4B96A;
+
+  --color-ink: #1A1A1A;
+  --color-ink-2: #3D3A36;
+  --color-ink-3: #6B6560;
+  --color-ink-4: #A09A8D;
+
+  --font-serif: "Playfair Display", Georgia, "Times New Roman", serif;
+  --font-sans: "Inter", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+:root {
+  /* Mesmo palco fixo do deck da Aula 2: 1920x1080 escalado por
+     transform. Deck projetado não pode reflowar. */
+  --stage-w: 1920px;
+  --stage-h: 1080px;
+  --pad-x: 140px;
+  --pad-y: 110px;
+
+  --r-card: 16px;
+  --r-chip: 10px;
+  --r-pill: 999px;
+}
+
+/* ── Temperaturas ────────────────────────────────────────────────
+   Slides 1 a 19 quentes, 20 a 30 frios. A virada é o sinal visual de
+   que o registro mudou de emocional pra racional, e acontece uma vez
+   só, no corte do roteiro.
+   ─────────────────────────────────────────────────────────────── */
+
+[data-theme="warm"] {
+  --bg: #FAF9F7;
+  --bg-2: #F2EDE3;
+  --surface: #FFFFFF;
+  --fg: #1A1A1A;
+  --fg-2: #3D3A36;
+  --fg-3: #6B6560;
+  --fg-4: #A09A8D;
+  --line: #E8E4DB;
+  --line-strong: #D8D2C5;
+  --accent: #A8893A;
+  --accent-display: #C8A84E;
+  --accent-soft: rgba(200, 168, 78, 0.13);
+}
+
+[data-theme="cold"] {
+  --bg: #151922;
+  --bg-2: #1C212C;
+  --surface: #1C212C;
+  --fg: #FFFFFF;
+  --fg-2: #E4E7ED;
+  --fg-3: #A6ADBB;
+  --fg-4: #6F7686;
+  --line: rgba(255, 255, 255, 0.12);
+  --line-strong: rgba(255, 255, 255, 0.24);
+  --accent: #D4B96A;
+  --accent-display: #D4B96A;
+  --accent-soft: rgba(212, 185, 106, 0.14);
+}
+
+/* ── Palco ───────────────────────────────────────────────────────── */
+
+.deck {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  /* 800ms: a virada do slide 19 pro 20 é uma lavada de temperatura, não
+     um corte. O conteúdo faz crossfade em 280ms por cima disso, então a
+     cor demora mais que o texto de propósito. */
+  transition: background-color 800ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Ancorado por left/top 50% + translate, NÃO por centralização de grid:
+   transform:scale não muda a caixa de layout, e no grid a coluna
+   implícita fica com 1920px presa na borda esquerda (medido no deck da
+   Aula 2: em 1280x720 o slide começava em x=320 e metade saía da tela). */
+.stage {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: var(--stage-w);
+  height: var(--stage-h);
+  transform-origin: center center;
+}
+
+.slide {
+  position: absolute;
+  inset: 0;
+  width: var(--stage-w);
+  height: var(--stage-h);
+  padding: var(--pad-y) var(--pad-x);
+  /* Sem fundo próprio: a cor vem do .deck, senão a virada de temperatura
+     viraria um corte de 280ms junto com o crossfade do conteúdo. */
+  background: transparent;
+  color: var(--fg-2);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* ── Grão ─────────────────────────────────────────────────────────
+   A aula é às 7h e cada slide fica de 1 a 3 minutos no ar. Tela
+   totalmente parada por 3 minutos morre. O grão anda devagar em
+   transform (nunca em background-position, que repinta) numa camada
+   fixa e pointer-events:none.
+   ──────────────────────────────────────────────────────────────── */
+
+.grain {
+  position: absolute;
+  inset: -6%;
+  z-index: 2;
+  pointer-events: none;
+  opacity: 0.42;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)' opacity='0.36'/%3E%3C/svg%3E");
+}
+
+/* ── Tipografia ──────────────────────────────────────────────────
+   Maior que no deck da Aula 2: aqui a regra é um elemento central por
+   slide, com muito respiro. Nunca bullet, nunca parágrafo na tela
+   pública.
+   ─────────────────────────────────────────────────────────────── */
+
+.d-hero, .d-xl, .d-l, .d-m, .d-s {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  color: var(--fg);
+  letter-spacing: -0.02em;
+  line-height: 1.08;
+  text-wrap: balance;
+}
+.d-hero { font-size: 208px; letter-spacing: -0.035em; line-height: 1; }
+.d-xl   { font-size: 150px; letter-spacing: -0.028em; }
+.d-l    { font-size: 104px; }
+.d-m    { font-size: 76px; }
+.d-s    { font-size: 52px; }
+
+.d-hero em, .d-xl em, .d-l em, .d-m em {
+  font-style: italic;
+  color: var(--accent);
+  padding-bottom: 0.06em; /* reserva de descendente */
+}
+
+.kicker {
+  font-family: var(--font-sans);
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--accent);
+  line-height: 1;
+}
+
+.legenda {
+  font-family: var(--font-sans);
+  font-size: 26px;
+  font-weight: 400;
+  color: var(--fg-3);
+  line-height: 1.5;
+}
+
+.num {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  color: var(--accent-display);
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  letter-spacing: -0.03em;
+}
+
+/* A águia é bronze: sobre o tema frio ela some se não clarear. */
+[data-theme="cold"] .marca-aguia { filter: brightness(1.9) saturate(0.9); }
+
+/* ── Barra de progresso ───────────────────────────────────────────
+   Fina, no rodapé, sem número: a plateia não precisa saber quanto
+   falta, mas a barra dá noção de percurso.
+   ──────────────────────────────────────────────────────────────── */
+
+.progresso {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 4px;
+  background: var(--line);
+  z-index: 3;
+}
+.progresso__fill {
+  height: 100%;
+  background: var(--accent-display);
+  transform-origin: left center;
+}
+
+/* ── Presenter view ───────────────────────────────────────────────
+   Navy sólido, nunca creme: às 7h da manhã uma tela clara na cara
+   cansa e reflete no rosto de quem está em câmera.
+   ──────────────────────────────────────────────────────────────── */
+
+.pv {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  gap: 24px;
+  padding: 28px 36px 24px;
+  background: #10141C;
+  color: #F2F4F8;
+  font-family: var(--font-sans);
+  overflow: hidden;
+}
+
+.pv__topo {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 28px;
+}
+
+.pv__rotulo {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: #6F7686;
+}
+
+/* O DIZ é a única coisa que ele precisa bater o olho e captar em meio
+   segundo. Tudo mais nesta tela é secundário a isto. */
+.pv__diz {
+  font-size: clamp(34px, 4.4vw, 68px);
+  font-weight: 600;
+  line-height: 1.22;
+  letter-spacing: -0.015em;
+  color: #FFFFFF;
+  /* pre-wrap porque a edição do roteiro é sobre QUEBRAR o texto do jeito
+     que ele lê: sem isso as quebras dele sumiriam na renderização. */
+  white-space: pre-wrap;
+}
+
+.pv__tom {
+  margin-top: 22px;
+  font-size: clamp(18px, 1.9vw, 30px);
+  font-weight: 500;
+  line-height: 1.35;
+  color: #D4B96A;
+  white-space: pre-wrap;
+}
+
+/* ── Editor do roteiro ─────────────────────────────────────────────
+   Só no presenter, e só com o modo de edição ligado. Herda a mesma
+   tipografia do texto lido: o que ele vê enquanto escreve é exatamente o
+   que vai ler ao vivo.
+   ──────────────────────────────────────────────────────────────── */
+
+.pv--editando { outline: 2px solid #D4B96A; outline-offset: -2px; }
+
+.pv__campo {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(212, 185, 106, 0.4);
+  border-radius: 8px;
+  padding: 14px 16px;
+  color: inherit;
+  font: inherit;
+  line-height: inherit;
+  white-space: pre-wrap;
+  resize: none;
+  outline: none;
+}
+.pv__campo:focus { border-color: #D4B96A; background: rgba(255, 255, 255, 0.08); }
+
+.pv__botao {
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  background: transparent;
+  color: #E4E7ED;
+  border-radius: var(--r-pill);
+  padding: 9px 18px;
+  font: inherit;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.pv__botao:hover { border-color: #D4B96A; color: #D4B96A; }
+.pv__botao:focus-visible { outline: 2px solid #D4B96A; outline-offset: 2px; }
+
+/* Marca de que o slide tem texto ajustado por ele, não o do roteiro. */
+.pv__editado {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: #D4B96A;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+
+.pv__rodape {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 28px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding-top: 18px;
+}
+
+.pv__proximo {
+  font-size: clamp(20px, 2vw, 30px);
+  font-weight: 600;
+  color: #A6ADBB;
+}
+
+.pv__relogios {
+  display: flex;
+  gap: 34px;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.pv__numero {
+  font-size: 30px;
+  font-weight: 700;
+  color: #FFFFFF;
+  line-height: 1.1;
+}
+
+/* Miniatura da projeção: só pra ele confirmar que a tela pública está
+   no slide certo. É o slide de verdade escalado por transform, não uma
+   representação que pode divergir do que está projetado. */
+.pv__mini {
+  position: relative;
+  width: 320px;
+  height: 180px;
+  flex: none;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+}
+.pv__mini-palco {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 1080px;
+  transform: scale(0.16666);
+  transform-origin: top left;
+  pointer-events: none;
+}
+
+/* ── Acessibilidade ─────────────────────────────────────────────── */
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+  .grain { display: none; }
+}
+
+::selection { background: rgba(200, 168, 78, 0.3); color: #1A1A1A; }
+img { display: block; max-width: 100%; }
+ul { list-style: none; }
+ .auth { min-height: 100vh; display: grid; place-items: center; background: #151922; color: #f7f4ed; font-family: Inter, sans-serif; }
+ .auth form { width: min(360px, calc(100vw - 40px)); display: grid; gap: 16px; padding: 32px; border: 1px solid #3b4352; border-radius: 12px; background: #202532; }
+ .auth label { display: grid; gap: 8px; color: #b7becc; }
+ .auth input { padding: 12px; border: 1px solid #4d5666; border-radius: 6px; background: #151922; color: inherit; }
+ .auth button { padding: 12px; border: 0; border-radius: 6px; background: #d4b96a; color: #151922; font-weight: 700; cursor: pointer; }
