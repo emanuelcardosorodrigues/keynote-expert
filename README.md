@@ -6,7 +6,7 @@ Deck de apresentação ao vivo baseado no projeto antigo `lps-slide-aula06`, com
 
 - `/p/lps-slide-aula06/`: tela da audiência; exibe somente o slide.
 - `/p/lps-slide-aula06/?presenter=1`: presenter autenticado; teclado, mãos-livres, voltar/avançar, forçar sincronia, cronômetros, cola editável e notas locais.
-- `/admin.html`: login admin, usuários ativos, remoção de usuários e tempo agregado por slide.
+- `/p/lps-slide-aula06/admin.html`: login admin, usuários ativos, remoção de usuários, edição de cola e tempo agregado por slide.
 - `worker/`: Worker Cloudflare com D1, sessões HttpOnly, API administrativa e coleta de tempo.
 
 O frontend não contém qualquer referência a Jev ou credenciais.
