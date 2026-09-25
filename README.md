@@ -4,9 +4,9 @@ Deck de apresentação ao vivo baseado no projeto antigo `lps-slide-aula06`, com
 
 ## O que existe
 
-- `/p/lps-slide-aula06/`: tela da audiência; exibe somente o slide.
-- `/p/lps-slide-aula06/?presenter=1`: presenter autenticado; teclado, mãos-livres, voltar/avançar, forçar sincronia, cronômetros, cola editável e notas locais.
-- `/p/lps-slide-aula06/admin.html`: login admin, usuários ativos, remoção de usuários, edição de cola e tempo agregado por slide.
+- `/keynote-expert/`: tela da audiência; exibe somente o slide.
+- `/keynote-expert/?presenter=1`: presenter autenticado; teclado, mãos-livres, voltar/avançar, forçar sincronia, cronômetros, cola editável e notas locais.
+- `/keynote-expert/admin.html`: login admin, usuários ativos, remoção de usuários, edição de cola e tempo agregado por slide.
 - `worker/`: Worker Cloudflare com D1, sessões HttpOnly, API administrativa e coleta de tempo.
 
 O frontend não contém qualquer referência a Jev ou credenciais.
@@ -43,7 +43,7 @@ O valor do segredo é o SHA-256 hexadecimal da senha da conta `admin` (nunca com
 5. Crie o segredo: `printf %s 'HASH_SHA256' | npx wrangler secret put ADMIN_PASSWORD_SHA256`.
 6. Publique: `npx wrangler deploy`.
 
-O Worker serve os artefatos de `../dist/lps-slide-aula06` pelo binding `ASSETS`. Para usar sob `/p/lps-slide-aula06/`, mantenha a regra de roteamento do Worker de páginas existente ou publique o Worker no hostname dedicado e faça o rewrite na borda.
+O Worker serve os artefatos de `../dist/keynote-expert` pelo binding `ASSETS`. Para usar sob `/keynote-expert/`, mantenha a regra de roteamento do Worker de páginas existente ou publique o Worker no hostname dedicado e faça o rewrite na borda.
 
 ## VPS (sem Cloudflare)
 
@@ -59,9 +59,9 @@ sudo rsync -a --delete ../dist/lps-slide-aula06/ /var/www/lps-slide-aula06/
 Exemplo mínimo de Nginx:
 
 ```nginx
-location /p/lps-slide-aula06/ {
+location /keynote-expert/ {
   alias /var/www/lps-slide-aula06/;
-  try_files $uri $uri/ /p/lps-slide-aula06/index.html;
+  try_files $uri $uri/ /keynote-expert/index.html;
 }
 ```
 

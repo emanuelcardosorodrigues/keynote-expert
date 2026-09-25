@@ -20,7 +20,7 @@
    A versão porque as edições são indexadas por número de slide — quando
    o deck é refeito, o que estava salvo no slide 14 antigo apareceria no
    14 novo, que é outro assunto. Refez o deck, bumpa a versão. */
-const CHAVE = "deck-lps-slide-aula06:roteiro:v2";
+const CHAVE = "deck-keynote-expert:roteiro:v2";
 
 export type Campo = "diz" | "tom" | "proximo";
 export type Edicoes = Record<number, Partial<Record<Campo, string>>>;

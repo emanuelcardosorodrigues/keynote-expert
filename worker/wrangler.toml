@@ -3,7 +3,7 @@ main = "src/index.ts"
 compatibility_date = "2026-09-25"
 
 [assets]
-directory = "../dist/lps-slide-aula06"
+directory = "../dist/keynote-expert"
 binding = "ASSETS"
 not_found_handling = "single-page-application"
 
