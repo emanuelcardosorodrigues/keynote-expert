@@ -11,6 +11,8 @@ Deck de apresentação ao vivo baseado no projeto antigo `lps-slide-aula06`, com
 
 O frontend não contém qualquer referência a Jev ou credenciais.
 
+Manuais: [instalação](docs/INSTALL.md), [Cloudflare/D1](docs/CLOUDFLARE.md), [VPS](docs/VPS.md), [operação](docs/OPERATIONS.md) e [segurança](docs/SECURITY.md).
+
 ## Desenvolvimento local
 
 ```bash
@@ -53,7 +55,7 @@ O build é estático e pode ser servido por Nginx. A API continua sendo o Worker
 git clone <URL_DO_REPOSITORIO> lps-slide-aula06
 cd lps-slide-aula06
 npm ci && npm run build
-sudo rsync -a --delete ../dist/lps-slide-aula06/ /var/www/lps-slide-aula06/
+sudo rsync -a --delete dist/lps-slide-aula06/ /var/www/lps-slide-aula06/
 ```
 
 Exemplo mínimo de Nginx:

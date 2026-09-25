@@ -3,6 +3,7 @@ export interface Env {
   DB: D1Database;
   ADMIN_PASSWORD_SHA256: string;
   SESSION_DAYS?: string;
+  PRESENTER_AUTH_REQUIRED?: string;
 }
 
 const COOKIE = "lps_session";
@@ -49,6 +50,7 @@ async function login(request: Request, env: Env) {
 async function api(request: Request, env: Env, url: URL) {
   if (url.pathname === "/api/auth/login" && request.method === "POST") return login(request, env);
   if (url.pathname === "/api/auth/logout" && request.method === "POST") return new Response(null, { status: 204, headers: { "set-cookie": `${COOKIE}=; Path=/; Max-Age=0` } });
+  if (url.pathname === "/api/config" && request.method === "GET") return json({ presenterAuthRequired: env.PRESENTER_AUTH_REQUIRED !== "false" });
   const current = await user(request, env);
   if (!current) return json({ error: "unauthorized" }, 401);
   if (url.pathname === "/api/auth/me") return json({ user: current });
