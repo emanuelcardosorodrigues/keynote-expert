@@ -2,7 +2,6 @@ import type { ReactNode } from "react";
 import type { Theme } from "@/components/SlideFrame";
 import { ElosSlide, type ElosProof, type ElosScene } from "@/slides/elos";
 import visualBrief from "./content/elos-visual.txt?raw";
-import presenterBrief from "./content/elos-presenter.txt?raw";
 
 export type Slide = {
   n: number;
@@ -19,7 +18,6 @@ export type Slide = {
 };
 
 type Visual = { n: number; titulo: string; tela: string };
-type Presenter = { n: number; fala: string; palco: string };
 
 const limpar = (texto: string) => texto.replace(/\s+/g, " ").trim();
 
@@ -33,17 +31,6 @@ function extrairVisuais(brief: string): Visual[] {
       return { n: Number(cabecalho[1]), titulo: limpar(cabecalho[2]), tela: limpar(tela[1]) };
     })
     .filter((slide): slide is Visual => Boolean(slide));
-}
-
-function extrairPresenter(brief: string): Map<number, Presenter> {
-  const notas = new Map<number, Presenter>();
-  for (const bloco of brief.split(/(?=^\d{3} )/m)) {
-    const cabecalho = bloco.match(/^(\d{3})\s/m);
-    const fala = bloco.match(/\n\s*FALA\s+([\s\S]*?)(?=\n\n\s*PALCO E AVANÇO)/);
-    const palco = bloco.match(/\n\s*PALCO E AVANÇO\s+([\s\S]*?)(?=\n\n(?=\d{3} )|$)/);
-    if (cabecalho && fala) notas.set(Number(cabecalho[1]), { n: Number(cabecalho[1]), fala: limpar(fala[1]), palco: limpar(palco?.[1] ?? "") });
-  }
-  return notas;
 }
 
 const PROVAS: Partial<Record<number, ElosProof>> = {
@@ -66,21 +53,19 @@ const CENAS: Partial<Record<number, ElosScene>> = {
 
 const ESCUROS = new Set([7, 15, 17, 35, 40, 41, 43, 47, 54, 60, 67, 79, 80, 81, 90, 97, 99, 100, 103, 105, 108, 110, 116, 126, 127, 129, 131, 132]);
 const visuais = extrairVisuais(visualBrief);
-const presenter = extrairPresenter(presenterBrief);
 
 if (visuais.length !== 132 || visuais.some((slide, i) => slide.n !== i + 1)) {
   throw new Error(`Briefing ELOS inválido: esperados 132 slides sequenciais, recebidos ${visuais.length}.`);
 }
 
 export const SLIDES: Slide[] = visuais.map((visual, index) => {
-  const nota = presenter.get(visual.n);
   const proximo = visuais[index + 1];
   return {
     n: visual.n,
     bloco: visual.titulo.replace(/^.*?\s/, ""),
     tema: ESCUROS.has(visual.n) ? "cold" : "warm",
-    diz: nota?.fala ?? "",
-    tom: nota?.palco ?? "",
+    diz: "",
+    tom: "",
     proximo: proximo?.titulo ?? "Encerramento",
     node: <ElosSlide number={visual.n} title={visual.titulo} copy={visual.tela} proof={PROVAS[visual.n]} scene={CENAS[visual.n]} />,
   };

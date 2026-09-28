@@ -14,6 +14,8 @@ import {
   type Edicoes,
 } from "@/lib/roteiro";
 
+type RoteiroRemoto = { n: number; diz: string; tom: string };
+
 /* ═══════════════════════════════════════════════════════════════════
    Presenter view. Só existe em ?presenter=1 e nunca aparece na URL
    pública.
@@ -62,6 +64,7 @@ export function PresenterView({
   const [edicoes, setEdicoes] = useState<Edicoes>(() => carregar());
   const [editando, setEditando] = useState(false);
   const [aviso, setAviso] = useState("");
+  const [roteiro, setRoteiro] = useState<Record<number, RoteiroRemoto>>({});
   const vistoEm = useRef(Date.now());
   const vistoSlide = useRef(slide.n);
   const [nota, setNota] = useState(() => {
@@ -69,6 +72,14 @@ export function PresenterView({
   });
 
   useEffect(() => { try { localStorage.setItem(`deck-pac-web01-slides:nota:${slide.n}`, nota); } catch { /* storage opcional */ } }, [slide.n, nota]);
+  useEffect(() => {
+    void fetch("/api/presenter/slides")
+      .then((resposta) => resposta.ok ? resposta.json() : null)
+      .then((dados: { notes?: RoteiroRemoto[] } | null) => {
+        if (dados?.notes) setRoteiro(Object.fromEntries(dados.notes.map((item) => [item.n, item])));
+      })
+      .catch(() => {});
+  }, []);
   useEffect(() => {
     const anterior = vistoEm.current;
     vistoEm.current = Date.now();
@@ -79,15 +90,15 @@ export function PresenterView({
     if (seconds) void fetch("/api/metrics/time", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ slide: previousSlide - 1, seconds }) });
   }, [slide.n]);
 
-  /* O texto lido é o dele quando existe, senão o do roteiro. */
-  const val = (campo: Campo) => edicoes[slide.n]?.[campo] ?? slide[campo];
+  const original = (campo: Campo) => campo === "diz" ? roteiro[slide.n]?.diz ?? "" : campo === "tom" ? roteiro[slide.n]?.tom ?? "" : slide.proximo;
+  const val = (campo: Campo) => edicoes[slide.n]?.[campo] ?? original(campo);
   const mexido = Boolean(edicoes[slide.n]);
 
   const trocar = useCallback(
     (campo: Campo, valor: string) => {
-      setEdicoes((e) => editar(e, slide.n, campo, valor, slide[campo]));
+      setEdicoes((e) => editar(e, slide.n, campo, valor, original(campo)));
     },
-    [slide]
+    [slide.n, roteiro, slide.proximo]
   );
 
   /* `E` liga e desliga o editor, `Esc` sai. A guarda de campo de texto

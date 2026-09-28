@@ -1,3 +1,5 @@
+import { PRESENTER_NOTES } from "./presenter-notes";
+
 export interface Env {
   ASSETS: Fetcher;
   DB: D1Database;
@@ -55,6 +57,7 @@ async function api(request: Request, env: Env, url: URL) {
   const current = await user(request, env);
   if (!current) return json({ error: "unauthorized" }, 401);
   if (url.pathname === "/api/auth/me") return json({ user: current });
+  if (url.pathname === "/api/presenter/slides" && request.method === "GET") return json({ notes: PRESENTER_NOTES });
   if (current.role !== "admin") return json({ error: "forbidden" }, 403);
   if (url.pathname === "/api/admin/users" && request.method === "GET") return json(await env.DB.prepare("SELECT id,email,role,active,created_at FROM users ORDER BY created_at DESC").all());
   if (url.pathname === "/api/admin/users" && request.method === "POST") {
