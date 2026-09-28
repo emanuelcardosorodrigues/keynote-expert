@@ -22,7 +22,7 @@ export function ElosSlide({ number, title, copy, proof, scene }: Props) {
   const espera = number === 1;
   const censo = number === 3;
   const audio = number === 2;
-  const aplicacao = number >= 100 && number <= 127;
+  const aplicacao = number >= 100;
   return (
     <div className={`elos elos--${scene ? "com-cena" : "tipografico"}`}>
       {scene ? <div className="elos__cena" style={{ backgroundPosition: POSICAO[scene] }} aria-hidden /> : null}
