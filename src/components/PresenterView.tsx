@@ -65,10 +65,10 @@ export function PresenterView({
   const vistoEm = useRef(Date.now());
   const vistoSlide = useRef(slide.n);
   const [nota, setNota] = useState(() => {
-    try { return localStorage.getItem(`deck-lps-slide-aula06:nota:${slide.n}`) || ""; } catch { return ""; }
+    try { return localStorage.getItem(`deck-pac-web01-slides:nota:${slide.n}`) || ""; } catch { return ""; }
   });
 
-  useEffect(() => { try { localStorage.setItem(`deck-lps-slide-aula06:nota:${slide.n}`, nota); } catch { /* storage opcional */ } }, [slide.n, nota]);
+  useEffect(() => { try { localStorage.setItem(`deck-pac-web01-slides:nota:${slide.n}`, nota); } catch { /* storage opcional */ } }, [slide.n, nota]);
   useEffect(() => {
     const anterior = vistoEm.current;
     vistoEm.current = Date.now();
@@ -130,7 +130,7 @@ export function PresenterView({
       <div className="pv__topo">
         <div>
           <span className="pv__rotulo">
-            Aula 6 · Imersão Lucro Clínico · Pitch
+            ELOS · Webinar de aplicação
             {editando ? <span style={{ color: "#D4B96A" }}> · editando (E sai)</span> : null}
           </span>
           <div style={{ marginTop: 10, fontSize: 20, fontWeight: 600, color: "#8B93A3" }}>

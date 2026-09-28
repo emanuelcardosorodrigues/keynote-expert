@@ -1,0 +1,2361 @@
+ELOS
+
+Descritivo do webinar de aplicação
+
+Programa ELOS de Acompanhamento de Casais
+
+Arquitetura visual e estratégica slide a slide
+CTA com botão aparecendo em 49:45, contado da primeira fala do Thiago
+
+Decisões que regem esta versão
+
+Este documento descreve a nova estrutura visual do webinar. Ele não é o
+teleprompter final e não contém ainda o arquivo de comentários do fake
+ao vivo. Cada slide foi desenhado para apoiar a fala, manter ritmo e
+tornar a promessa do ELOS visível antes da aplicação.
+
+  -----------------------------------------------------------------------
+  Elemento                            Definição congelada
+  ----------------------------------- -----------------------------------
+  Programa vendido                    Programa ELOS de Acompanhamento de
+                                      Casais. A Sessão de Diagnóstico é a
+                                      etapa de seleção, não o produto
+                                      principal.
+
+  Aplicação                           Botão e primeira chamada explícita
+                                      em 49:45 a 50:20, contados da
+                                      primeira fala do Thiago.
+
+  Formato                             Fake ao vivo; Thiago avança
+                                      manualmente; os comentários serão
+                                      entregues em planilha separada
+                                      depois deste descritivo.
+
+  Oferta                              90 dias; 10 sessões individuais com
+                                      Thiago; Genograma Personalizado;
+                                      Aurora; Comunidade Inabaláveis;
+                                      aplicativo ELOS.
+
+  Garantias                           7 dias de reembolso e Garantia de
+                                      Acompanhamento: mais 3 sessões
+                                      individuais se a participante
+                                      cumprir o processo e ainda precisar
+                                      de direção para consolidá-lo.
+
+  Capacidade                          No máximo 10 novas entradas; ficha
+                                      por 48 horas; até 23h59, fura-fila
+                                      do diagnóstico e Direcionamento
+                                      Privado extra com Thiago, para
+                                      aprovada que entrar.
+
+  Tom                                 Feminino maduro, acolhedor, premium
+                                      e seguro. Exclusividade gentil; sem
+                                      humilhação, sem contador falso e
+                                      sem discurso de que ela é incapaz.
+
+  Fé                                  Mantida como fundamento coerente
+                                      com o público, sem usar versículo
+                                      como argumento comercial e sem
+                                      atacar igreja, pastor ou terapia.
+  -----------------------------------------------------------------------
+
+Regra de tempo
+
+A referência de 130 palavras por minuto exige que o roteiro final
+respeite orçamento de fala, pausas e trocas de slide. A contagem abaixo
+é de tempo de palco. O pré-início não entra nos 50 minutos.
+
+  -----------------------------------------------------------------------
+  Bloco             Tempo de palco    Objetivo          Orçamento de fala
+  ----------------- ----------------- ----------------- -----------------
+  Abertura e        00:00–08:15       Reconhecimento,   aprox. 780
+  autoridade                          filtro, promessa  palavras
+                                      e contrato        
+
+  Problema e Veneno 08:15–20:30       Validar           aprox. 1.250
+  Conjugal                            tentativas e      palavras
+                                      nomear a causa    
+
+  Antídoto e quatro 20:30–37:40       Instalar a Big    aprox. 1.500
+  segredos                            Domino e entregar palavras
+                                      prática           
+
+  Método e ponte    37:40–41:05       Criar necessidade aprox. 450
+                                      de acompanhamento palavras
+
+  ELOS antes do     41:05–49:45       Desejo pelo       aprox. 820
+  botão                               programa, seleção palavras
+                                      e oferta          
+
+  Aplicação e       49:45–57:45       Abrir ficha,      aprox. 700
+  reforço                             urgência e future palavras
+                                      pace              
+
+  Objeções e        57:45–64:45       Remover travas e  aprox. 650
+  encerramento                        recapitular ação  palavras
+  -----------------------------------------------------------------------
+
+Total estimado antes do botão: cerca de 4.800 palavras efetivamente
+faladas, mais pausas, leitura de comentários, exercícios e mudanças
+visuais. O teleprompter deve ser escrito contra este orçamento; se uma
+fala ultrapassar o bloco, a fala deve ser cortada, não o CTA adiado.
+
+Direção visual e guardrails
+
+-   Paleta: marfim e areia como fundos principais; marrom profundo para
+    viradas e respiros; dourado fosco apenas como acento; rosa-terra
+    pontual para vulnerabilidade. A referência do aplicativo deve
+    orientar cards, bordas e espaçamento.
+
+-   Tipografia: serifada editorial para declarações, títulos emocionais
+    e future pace; sans serif limpa para instruções, cronograma, cartões
+    e microtexto. Um slide deve ter uma ideia dominante.
+
+-   Provas: usar depoimentos como pausas de realidade. Nunca mais de
+    dois prints seguidos. Alternar print, cena, diagrama, frase e câmera
+    do Thiago.
+
+-   Ciência: esta versão não depende de afirmações científicas
+    específicas. Se qualquer estudo entrar depois, ele deve ser revisado
+    antes de ir a slide. Não manter números ou pesquisas não verificadas
+    só porque existiam no roteiro anterior.
+
+-   Provas reais: conferir autorização de nome, foto e print antes de
+    exportar os slides. Se faltar autorização, preservar a frase,
+    anonimizar o print ou usar citação tipográfica.
+
+-   Fake ao vivo: o chat deve parecer reação à fala, nunca uma fila de
+    elogios. Nesta etapa, os slides só indicam onde haverá interação; a
+    planilha posterior fixa nome, horário, comentário, leitura e reação.
+
+Descritivo slide a slide
+
+Leitura de produção: TELA é o texto que a audiência vê; COMPOSIÇÃO
+descreve o slide final; MOVIMENTO é sugestão para animação ou edição;
+FUNÇÃO explica por que o slide existe; COLA DO THIAGO orienta a
+intenção, mas não substitui o roteiro híbrido que será produzido na
+próxima etapa.
+
+Pré início
+
+001 Tela de espera
+
+-03:00 a 00:00 | Pré-início; não entra no relógio de 50 min
+
+  TELA A aula começa em instantes
+
+  COMPOSIÇÃO Fundo marfim texturizado; monograma ELOS discreto; contador
+  de 3 minutos; alternância lenta de três recortes de depoimentos reais
+  autorizados, sem transformar a tela em mural.
+
+  MOVIMENTO Dissolve suave a cada 18 segundos; música instrumental
+  baixa; nenhum texto piscando.
+
+  FUNÇÃO Criar calma, segurança e prova antes da primeira fala.
+
+  COLA DO THIAGO Sem fala. A contagem regressiva termina em corte limpo
+  para a câmera.
+
+002 Check de áudio
+
+00:00 a 00:40 | Pré-início; não entra no relógio de 50 min
+
+  TELA Escreve EU no chat
+
+  COMPOSIÇÃO Thiago em câmera cheia, luz quente e cenário real
+  organizado; marca ELOS pequena no canto.
+
+  MOVIMENTO Sem animação além de entrada curta da palavra EU.
+
+  FUNÇÃO Abrir presença e comprovar que a transmissão está viva.
+
+  COLA DO THIAGO Pedir somente EU; agradecer dois nomes e seguir sem
+  alongar.
+
+003 Censo da sala
+
+00:40 a 01:35 | Pré-início; não entra no relógio de 50 min
+
+  TELA Nome Cidade Há quanto tempo você é casada
+
+  COMPOSIÇÃO Três campos grandes, um por linha; ícones lineares mínimos;
+  fundo claro.
+
+  MOVIMENTO Cada campo entra quando for citado.
+
+  FUNÇÃO Fazer a plateia se reconhecer como grupo e alimentar o fake ao
+  vivo depois.
+
+  COLA DO THIAGO Pedir nome, cidade e tempo de casamento; ler no máximo
+  três respostas.
+
+004 Permissão para começar
+
+01:35 a 02:05 | Pré-início; não entra no relógio de 50 min
+
+  TELA Posso começar?
+
+  COMPOSIÇÃO Tela quase vazia com pergunta central em serifada elegante.
+
+  MOVIMENTO A pergunta aparece após um segundo de silêncio.
+
+  FUNÇÃO Gerar o primeiro microcompromisso.
+
+  COLA DO THIAGO Pedir PODE, esperar poucos segundos e avançar.
+
+Abertura e contrato da audiência
+
+005 A aula tem dona
+
+02:05 a 02:35 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Esta aula é para a mulher que ainda quer lutar pelo casamento
+
+  COMPOSIÇÃO Thiago em plano médio; frase curta alinhada à esquerda.
+
+  MOVIMENTO Entrada simples; sem lista ainda.
+
+  FUNÇÃO Filtrar com acolhimento e estabelecer a identidade da
+  audiência.
+
+  COLA DO THIAGO Falar com quem está cansada, mas não desistiu. Não
+  mencionar investimento.
+
+006 A frase que paralisa
+
+02:35 a 03:05 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Casamento só se salva se os dois quiserem
+
+  COMPOSIÇÃO A frase ocupa a tela; aspas grandes em dourado suave; fundo
+  areia.
+
+  MOVIMENTO Pequena pausa antes e depois da frase.
+
+  FUNÇÃO Apresentar a crença que o webinar vai substituir.
+
+  COLA DO THIAGO Dizer que a frase parece sensata, mas pode deixar uma
+  mulher esperando indefinidamente.
+
+007 A pergunta honesta
+
+03:05 a 03:35 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Se os dois quisessem, vocês estariam vivendo essa crise?
+
+  COMPOSIÇÃO Pergunta única em fundo marrom profundo; alto contraste.
+
+  MOVIMENTO Nenhuma animação; manter a pergunta visível durante a pausa.
+
+  FUNÇÃO Abrir o espaço lógico para o Antídoto Unilateral.
+
+  COLA DO THIAGO Pergunta retórica. Pausa de dois segundos. Não atacar o
+  marido.
+
+008 Reconhecimento
+
+03:35 a 04:05 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Ele está frio Você está cansada E ainda existe uma parte sua que
+  não desistiu
+
+  COMPOSIÇÃO Três linhas reveladas sobre fotografia editorial de mulher
+  sentada à mesa, luz de fim de tarde; rosto não identificável.
+
+  MOVIMENTO Revelar uma linha por vez.
+
+  FUNÇÃO Fazer a pessoa sentir que chegou ao lugar certo.
+
+  COLA DO THIAGO Falar de crise, distância e solidão sem listar dezenas
+  de sintomas.
+
+009 O que esta aula não promete
+
+04:05 a 04:35 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Não existe frase capaz de controlar outra pessoa
+
+  COMPOSIÇÃO Fundo claro; a palavra controlar riscada de forma delicada;
+  ícone de mão aberta.
+
+  MOVIMENTO Risco aparece, depois a frase positiva: Existe um lado que
+  você pode conduzir.
+
+  FUNÇÃO Blindar a promessa contra controle e magia.
+
+  COLA DO THIAGO Explicar que a aula mostra o lado que ela controla e
+  como ele influencia o clima da casa.
+
+010 Proteção vem antes
+
+04:35 a 05:05 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Violência não se trata. Se protege.
+
+  COMPOSIÇÃO Tela sóbria sem fotografia; número 180 no rodapé, legível.
+
+  MOVIMENTO Entrada lenta e sem efeito dramático.
+
+  FUNÇÃO Separar casos de risco e evitar indução perigosa.
+
+  COLA DO THIAGO Tom baixo e direto: ameaça, agressão ou medo pedem rede
+  de proteção, não este processo.
+
+011 Teste 1 Onde a casa está hoje
+
+05:05 a 05:50 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA 1 Briga 2 Silêncio 3 Tanto faz
+
+  COMPOSIÇÃO Três cartões amplos: prato quebrado estilizado, duas
+  cadeiras separadas, mesa vazia; estética editorial, não literal.
+
+  MOVIMENTO Cada cartão entra no momento de sua descrição.
+
+  FUNÇÃO Fazer a pessoa nomear o estágio sem diagnóstico clínico.
+
+  COLA DO THIAGO Pedir 1, 2 ou 3 no chat; ler apenas uma resposta por
+  estágio.
+
+012 A causa não muda de nome
+
+05:50 a 06:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Briga, silêncio e indiferença podem ser fases da mesma dinâmica
+
+  COMPOSIÇÃO Os três cartões se aproximam e formam um único círculo
+  incompleto.
+
+  MOVIMENTO Animação de convergência lenta.
+
+  FUNÇÃO Preparar o problema central sem dar a solução ainda.
+
+  COLA DO THIAGO Dizer que os sintomas parecem diferentes, mas o ciclo
+  precisa ser visto antes de ser corrigido.
+
+013 Promessa da aula
+
+06:20 a 06:55 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Os quatro segredos que ajudam você a reconstruir o vínculo sem
+  esperar ele mudar primeiro
+
+  COMPOSIÇÃO Capa limpa, marca ELOS e subtítulo: mesmo quando há frieza,
+  distância ou conversa de separação.
+
+  MOVIMENTO Título entra em duas etapas: resultado, depois condição.
+
+  FUNÇÃO Firmar uma promessa específica sem prometer o comportamento do
+  marido.
+
+  COLA DO THIAGO Ler devagar. O resultado é mudar a dinâmica e restaurar
+  caminho, não garantir reconciliação.
+
+014 Primeira semente do ELOS
+
+06:55 a 07:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Você pode começar. Mas não precisa lutar sozinha até o fim.
+
+  COMPOSIÇÃO Dois planos fotográficos em díptico: mulher sozinha em
+  cozinha à noite e mesma mulher recebendo direção em videochamada; sem
+  UI ainda.
+
+  MOVIMENTO A segunda imagem aparece depois da primeira frase.
+
+  FUNÇÃO Introduzir a necessidade de acompanhamento antes de qualquer
+  pitch.
+
+  COLA DO THIAGO Mencionar que existe um processo próximo de 90 dias,
+  sem explicar nem convidar ainda.
+
+015 A regra da aula
+
+07:20 a 07:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Um começa. Do jeito certo.
+
+  COMPOSIÇÃO Frase central em fundo marrom; filete dourado fino conecta
+  as duas linhas.
+
+  MOVIMENTO Pausa visual de dois segundos.
+
+  FUNÇÃO Criar o refrão que fecha todas as etapas.
+
+  COLA DO THIAGO Falar a frase uma vez, com calma. Ela deve retornar no
+  fim.
+
+016 Antes dos segredos
+
+07:45 a 08:15 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Primeiro, precisamos entender por que tanta tentativa
+  bem-intencionada piora a distância
+
+  COMPOSIÇÃO Tela de transição com porta entreaberta e luz quente ao
+  fundo.
+
+  MOVIMENTO Corte para o bloco do problema.
+
+  FUNÇÃO Dar razão para a mulher ouvir a explicação antes das
+  ferramentas.
+
+  COLA DO THIAGO Convidar a pegar caderno; prometer três ações práticas
+  ao longo da aula.
+
+Problema e crenças
+
+017 Duas da manhã
+
+08:15 a 08:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA A casa está em silêncio. A cabeça não.
+
+  COMPOSIÇÃO Quarto escuro editorial; luz de carregador, sem pessoas
+  identificáveis; amplo espaço negativo.
+
+  MOVIMENTO Zoom imperceptível na luz do celular.
+
+  FUNÇÃO Entrar na cena de consumo e dor real do avatar.
+
+  COLA DO THIAGO Narrar uma cena curta, sem dizer imagine: ela olha o
+  teto e repassa a conversa que não aconteceu.
+
+018 A casa por fora
+
+08:45 a 09:15 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Por fora, uma família. Por dentro, duas pessoas tentando
+  sobreviver ao mesmo teto.
+
+  COMPOSIÇÃO Díptico: foto de almoço familiar desfocada e mesa
+  silenciosa à noite; paleta quente se torna fria na metade inferior.
+
+  MOVIMENTO Fade cruzado entre os dois momentos.
+
+  FUNÇÃO Contrastar aparência social e realidade íntima.
+
+  COLA DO THIAGO Não exagerar em drama; fazer a transição para os sinais
+  cotidianos.
+
+019 Os sinais
+
+09:15 a 09:50 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Ele foge da conversa A casa virou conta e filho Você se sente
+  invisível
+
+  COMPOSIÇÃO Três cartões horizontais com microcenas: celular, conta,
+  espelho; texto no máximo uma linha por cartão.
+
+  MOVIMENTO Entrada um a um.
+
+  FUNÇÃO Reconhecimento concreto a partir de dores documentadas.
+
+  COLA DO THIAGO Pedir SOU EU no chat apenas se duas ou mais frases
+  descreverem a casa dela.
+
+020 O peso que ninguém vê
+
+09:50 a 10:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Não é só a falta dele. É carregar o casamento nas costas sozinha.
+
+  COMPOSIÇÃO Mulher com sacolas e criança em silhueta ao fundo, metáfora
+  suave de peso; luz cálida, sem vitimização.
+
+  MOVIMENTO Texto surge após a imagem já estar na tela.
+
+  FUNÇÃO Nomear sobrecarga sem transformar a mulher em culpada.
+
+  COLA DO THIAGO Validar: a vontade de lutar não é o problema.
+
+021 O medo real
+
+10:20 a 10:55 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Você não quer perder apenas um homem. Você teme perder a família
+  que construiu.
+
+  COMPOSIÇÃO Foto de mesa com quatro lugares, um vazio; tom marfim e
+  sombras longas.
+
+  MOVIMENTO Câmera lenta simulada por zoom suave.
+
+  FUNÇÃO Acessar o medo de perda sem criar pânico artificial.
+
+  COLA DO THIAGO Conectar com filhos, história construída e fé; sem
+  dizer que ficar sempre é a resposta.
+
+022 Teste 2 A escada das tentativas
+
+10:55 a 11:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Conversar Mudar você Orar Pedir conselho Dar gelo Ameaçar Comprar
+  paz
+
+  COMPOSIÇÃO Escada vertical de sete degraus; ícones discretos; nenhum
+  degrau é vermelho ou marcado como erro.
+
+  MOVIMENTO Construir a escada enquanto Thiago cita cada tentativa.
+
+  FUNÇÃO Fazer o esforço dela ficar visível e preparar a absolvição.
+
+  COLA DO THIAGO Pedir que ela conte quantos degraus já tentou; não ler
+  lista de respostas por mais de seis segundos.
+
+023 O padrão escondido
+
+11:45 a 12:15 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Quase todas as tentativas esperavam uma reação dele para
+  funcionar
+
+  COMPOSIÇÃO Setas saem de cada degrau e param numa silhueta masculina;
+  no fim, o fluxo trava.
+
+  MOVIMENTO As setas param antes de atingir a pessoa; não usar linguagem
+  de manipulação.
+
+  FUNÇÃO Demonstrar a dependência da reação do outro.
+
+  COLA DO THIAGO Explicar que isso produz mais força, mais ansiedade e
+  mais cansaço quando ele não reage.
+
+024 A absolvição
+
+12:15 a 12:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Você não falhou por amar demais. Você tentou sem um mapa.
+
+  COMPOSIÇÃO Texto em serifada sobre fundo claro; assinatura visual ELOS
+  pequena.
+
+  MOVIMENTO Palavra mapa aparece por último em dourado.
+
+  FUNÇÃO Tirar culpa e conquistar o direito de apresentar método.
+
+  COLA DO THIAGO Falar esta frase de forma muito direta. Não acrescentar
+  sermão.
+
+025 As quatro mensagens que ela recebeu
+
+12:45 a 13:10 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Acabou o amor Separar é a solução Só funciona se os dois quiserem
+  É só orar e esperar
+
+  COMPOSIÇÃO Quatro cartões sem ilustração, como sentenças de terceiros.
+
+  MOVIMENTO Cada cartão aparece em batida curta e se reduz no fundo.
+
+  FUNÇÃO Organizar as crenças que serão desmontadas.
+
+  COLA DO THIAGO Dizer que são mensagens repetidas por gente
+  bem-intencionada, internet e desespero.
+
+026 Crença 1
+
+13:10 a 13:40 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Quando o jeito some, parece que o amor acabou
+
+  COMPOSIÇÃO Foto antiga de casal desfocada, sobreposta por uma cena
+  atual em tons neutros; sem rostos reconhecíveis.
+
+  MOVIMENTO A cena atual desliza sobre a antiga.
+
+  FUNÇÃO Diferenciar mudança de expressão de ausência total de vínculo.
+
+  COLA DO THIAGO Evitar a frase universal amor não acaba. Dizer que a
+  frieza merece ser entendida antes de ser decretada.
+
+027 Prova de vínculo reconstruído
+
+13:40 a 14:10 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Frio, distante, sem diálogo e quase divórcio. Depois, 29 anos
+  celebrados juntos.
+
+  COMPOSIÇÃO Print original autorizado do depoimento 04 03 em moldura de
+  papel, com marcador dourado apenas na transformação; ao lado, foto da
+  viagem se houver autorização.
+
+  MOVIMENTO Zoom no trecho destacado; não ler o print inteiro.
+
+  FUNÇÃO Provar que a aparência de fim não define todos os casos.
+
+  COLA DO THIAGO Ler duas frases exatas do depoimento. Não dizer que é
+  resultado garantido.
+
+028 Crença 2
+
+14:10 a 14:40 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Separar pode interromper a dor. Não resolve automaticamente os
+  padrões que cada um carrega.
+
+  COMPOSIÇÃO Duas malas iguais em dois corredores diferentes; composição
+  minimalista, sem condenar separação.
+
+  MOVIMENTO Uma linha discreta conecta as malas.
+
+  FUNÇÃO Introduzir responsabilidade pelos padrões, sem estigmatizar
+  separação.
+
+  COLA DO THIAGO Dizer que há casos em que a proteção exige afastamento;
+  aqui o foco é quem ainda quer avaliar reconstrução.
+
+029 Prova sem romantizar a traição
+
+14:40 a 15:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Traição com filho fora do casamento. Dor legítima. Reconstrução
+  possível quando os dois escolhem trabalhar.
+
+  COMPOSIÇÃO Recorte do depoimento 01 07 e 01 08; bloco de aviso:
+  restaurar não é engolir.
+
+  MOVIMENTO Abrir com o aviso e só depois revelar o recorte de
+  resultado.
+
+  FUNÇÃO Tratar uma objeção extrema com respeito e reforçar que
+  responsabilidade não é apagada.
+
+  COLA DO THIAGO Não prometer restauração após traição. Usar o caso como
+  prova de possibilidade, não como regra.
+
+030 Crença 3
+
+15:20 a 15:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Esperar os dois quererem pode deixar a crise sem começo
+
+  COMPOSIÇÃO Tela tipográfica; dois círculos afastados, um deles acende
+  primeiro.
+
+  MOVIMENTO O primeiro círculo acende, sem forçar o segundo a acender.
+
+  FUNÇÃO Reabrir a tese unilateral de forma lógica.
+
+  COLA DO THIAGO Trazer de volta a pergunta do slide 7; uma pessoa pode
+  iniciar a mudança do padrão.
+
+031 Prova de começo individual
+
+15:45 a 16:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Foram oito meses separados. O processo começou com ela.
+
+  COMPOSIÇÃO Print do depoimento 02 02; destacar: Primeiro comigo e
+  Depois com meu esposo.
+
+  MOVIMENTO Destaque sobe de Primeiro para Depois.
+
+  FUNÇÃO Provar a Big Domino com um caso forte e específico.
+
+  COLA DO THIAGO Ler apenas os dois trechos-chave. Não insinuar que
+  separação é irrelevante.
+
+032 Crença 4
+
+16:20 a 16:50 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Oração não foi o erro. O que faltava era direção para o dia
+  seguinte.
+
+  COMPOSIÇÃO Mãos sobre uma Bíblia fechada e um caderno aberto; luz da
+  manhã; sem versículo em tela.
+
+  MOVIMENTO A luz aumenta levemente ao aparecer direção.
+
+  FUNÇÃO Unir fé e prática sem atacar a igreja ou transformar fé em
+  ferramenta.
+
+  COLA DO THIAGO Dizer que oração pode sustentar a coragem; a aula
+  acrescenta passos e acompanhamento.
+
+033 Teste 3 A mesa que ensinou vocês
+
+16:50 a 17:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Na sua casa de origem, o que aparecia mais? Grito Silêncio
+  Traição Controle Fuga
+
+  COMPOSIÇÃO Mesa vista de cima, cinco pequenas etiquetas ao redor; não
+  usar fotos de crianças.
+
+  MOVIMENTO Etiquetas entram conforme são citadas.
+
+  FUNÇÃO Abrir a porta para padrões aprendidos e personalização.
+
+  COLA DO THIAGO Pedir uma palavra no chat. Orientar que não é
+  diagnóstico e que não precisa expor nada íntimo.
+
+034 O que aparece quando olhamos a origem
+
+17:25 a 17:55 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Muita coisa que machuca hoje foi aprendida antes de vocês se
+  conhecerem
+
+  COMPOSIÇÃO Linhas finas ligam duas casas de origem a uma casa atual;
+  fundo marfim, estética de genograma simplificado.
+
+  MOVIMENTO Linhas surgem devagar; sem dados pessoais.
+
+  FUNÇÃO Justificar por que uma dica avulsa não resolve padrões
+  complexos.
+
+  COLA DO THIAGO Falar de repetição sem culpa: costume não é destino.
+
+035 O nome do inimigo
+
+17:55 a 18:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Veneno Conjugal
+
+  COMPOSIÇÃO Uma gota dourado-escura cai em um copo de água clara; cada
+  gota turva lentamente a água.
+
+  MOVIMENTO Animação central da aula; uma gota a cada dois segundos.
+
+  FUNÇÃO Dar nome memorável à causa e criar unidade para o mecanismo.
+
+  COLA DO THIAGO Definir: padrões, reações e conselhos herdados que
+  parecem proteção, mas adoecem o vínculo.
+
+036 Como o veneno se disfarça
+
+18:25 a 18:55 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Cobrar parece cuidar Implorar parece amar Dar gelo parece se
+  valorizar
+
+  COMPOSIÇÃO Três cartões com palavra inicial riscada suavemente e a
+  consequência abaixo: pressão, dependência, punição.
+
+  MOVIMENTO Revelar consequência após dois segundos de cada cartão.
+
+  FUNÇÃO Trocar julgamento moral por diagnóstico de dinâmica.
+
+  COLA DO THIAGO Dizer que intenção boa não garante efeito bom. Não
+  personalizar culpa.
+
+037 O que o veneno não faz
+
+18:55 a 19:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Explica o ciclo. Não desculpa traição, crueldade ou violência.
+
+  COMPOSIÇÃO Tela sóbria em off-white; três palavras em marrom profundo.
+
+  MOVIMENTO Sem transições chamativas.
+
+  FUNÇÃO Evitar que a explicação seja ouvida como perdão automático.
+
+  COLA DO THIAGO Falar devagar, em especial para quem viveu traição.
+
+038 O que os filhos aprendem
+
+19:25 a 20:00 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA A mesa de hoje também está ensinando alguém a amar
+
+  COMPOSIÇÃO Mesa atual vista pela altura de uma criança, sem criança em
+  quadro; tons de fim de tarde.
+
+  MOVIMENTO Pequeno foco na cadeira vazia.
+
+  FUNÇÃO Construir urgência real sem explorar culpa materna.
+
+  COLA DO THIAGO Dizer que reconstrução não é apenas sobre manter uma
+  casa: é mudar o modelo que passa adiante.
+
+039 A pergunta que muda a direção
+
+20:00 a 20:30 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Se o veneno entrou pelos dois, ele pode começar a sair por um?
+
+  COMPOSIÇÃO Fundo marrom; uma gota clara cai no copo turvo e começa a
+  abrir um círculo limpo.
+
+  MOVIMENTO A água clareia de dentro para fora.
+
+  FUNÇÃO Virar do problema para a possibilidade.
+
+  COLA DO THIAGO Pausa antes de responder. Dizer sim, desde que o começo
+  seja diferente e com direção.
+
+Mecanismo e quatro segredos
+
+040 A Big Domino
+
+20:30 a 21:00 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Um começa. Do jeito certo. E o ciclo inteiro começa a responder
+  diferente.
+
+  COMPOSIÇÃO Três dominós minimalistas: reação dela, clima da conversa,
+  espaço para resposta; sem representar controle do marido.
+
+  MOVIMENTO O primeiro dominó muda de cor; os outros acompanham, não
+  caem.
+
+  FUNÇÃO Instalar a crença central com uma imagem não manipulativa.
+
+  COLA DO THIAGO Pedir UM COMEÇA no chat; ecoar uma resposta e seguir.
+
+041 O Antídoto Unilateral
+
+21:00 a 21:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Não é fazer mais. É parar de alimentar o ciclo e introduzir outro
+  padrão.
+
+  COMPOSIÇÃO Dois frascos de vidro: Veneno Conjugal à esquerda, Antídoto
+  Unilateral à direita; aparência editorial.
+
+  MOVIMENTO O frasco do antídoto recebe luz.
+
+  FUNÇÃO Nomear a solução sem revelar todo o método.
+
+  COLA DO THIAGO Explicar que unilateral significa começar pelo lado que
+  está disponível, não carregar culpa sozinha.
+
+042 O que muda primeiro
+
+21:25 a 21:55 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Antes de tentar recuperar a resposta dele, você recupera a sua
+  presença.
+
+  COMPOSIÇÃO Retrato feminino de perfil com luz entrando; sem
+  sensualização; fundo neutro.
+
+  MOVIMENTO Leve movimento de luz.
+
+  FUNÇÃO Conectar antídoto com autonomia emocional.
+
+  COLA DO THIAGO Dizer que não se trata de ser fria, nem de sumir. É
+  interromper reação automática.
+
+043 Segredo 1
+
+21:55 a 22:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Se ainda existe história, existe matéria para cuidar do vínculo
+
+  COMPOSIÇÃO Número 1 grande e linha dourada conectando duas margens.
+
+  MOVIMENTO Capa seca de 3 segundos, depois entra frase.
+
+  FUNÇÃO Abrir o primeiro segredo sem fazer afirmação universal sobre
+  homens que ficam ou vão embora.
+
+  COLA DO THIAGO Falar de sinais de vínculo como história, interesse,
+  rotina, cuidado, filhos e lembranças, não como garantia.
+
+044 Vínculo de Alma
+
+22:25 a 22:55 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA O vínculo pode ficar ferido, abafado e distante. Não precisa ser
+  tratado como se nunca tivesse existido.
+
+  COMPOSIÇÃO Fio dourado delicado atravessa imagem de duas cadeiras
+  separadas; referência visual espiritual, sem citação científica.
+
+  MOVIMENTO Fio fica parcialmente encoberto e depois reaparece.
+
+  FUNÇÃO Apresentar o conceito de vínculo sem pesquisa não auditada.
+
+  COLA DO THIAGO Conectar uma só carne ao cuidado concreto; não afirmar
+  que vínculo permanece em todos os relacionamentos.
+
+045 Teste do Vínculo
+
+22:55 a 23:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA O que ainda existe entre vocês hoje?
+
+  COMPOSIÇÃO Quatro perguntas na tela: memória boa, contato prático,
+  alguma forma de cuidado, ainda existe dor ou reação; espaço de
+  resposta no caderno.
+
+  MOVIMENTO Perguntas entram uma por vez; não pedir número de sins como
+  diagnóstico.
+
+  FUNÇÃO Dar auto-observação com menos risco de falsa certeza.
+
+  COLA DO THIAGO Pedir que anote apenas quais sinais continuam vivos.
+  Dizer: isso não substitui olhar o caso de perto.
+
+046 Prova O vínculo não mora no endereço
+
+23:25 a 23:55 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Oito meses separados. Primeiro ela recebeu direção. Depois ele
+  entrou no processo.
+
+  COMPOSIÇÃO Retomar o depoimento 02 02, agora em layout com uma linha
+  do tempo curta: separação → começo individual → casal.
+
+  MOVIMENTO Linha do tempo desenha-se em três etapas.
+
+  FUNÇÃO Fixar que a distância física não encerra automaticamente a
+  possibilidade.
+
+  COLA DO THIAGO Usar o mesmo caso sem repetir o print inteiro; reforçar
+  que cada história precisa ser avaliada.
+
+047 Segredo 2
+
+23:55 a 24:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA O silêncio precisa ser lido antes de ser respondido
+
+  COMPOSIÇÃO Número 2 grande; porta fechada com luz atravessando a
+  fresta.
+
+  MOVIMENTO Capa rápida e corte para a cena.
+
+  FUNÇÃO Trocar a interpretação automática de desprezo por curiosidade e
+  prudência.
+
+  COLA DO THIAGO Dizer: o silêncio pode ter muitas causas; a reação mais
+  útil não é sempre aumentar o volume.
+
+048 O ciclo
+
+24:25 a 24:55 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Quanto mais pressão aparece, mais espaço a conversa perde
+
+  COMPOSIÇÃO Diagrama circular: pressão → defesa/fechamento → ansiedade
+  → mais pressão; setas finas, sem gênero fixado.
+
+  MOVIMENTO O ciclo se move uma volta e para.
+
+  FUNÇÃO Mostrar a dinâmica sem afirmar uma lei masculina universal.
+
+  COLA DO THIAGO Dizer que em muitas casas os papéis alternam; o
+  importante é interromper o ciclo.
+
+049 A primeira prática
+
+24:55 a 25:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Silêncio Estratégico Presença sem punição
+
+  COMPOSIÇÃO Comparativo visual: gelo = ausência punitiva; silêncio
+  estratégico = chá sobre mesa, rosto sereno, espaço para se regular.
+
+  MOVIMENTO A coluna gelo se apaga; a coluna presença recebe luz.
+
+  FUNÇÃO Entregar uma ação útil e proteger contra a interpretação
+  errada.
+
+  COLA DO THIAGO Orientação: 24 horas sem escalar discussão, mantendo
+  respeito, bom dia e cuidado básico.
+
+050 O que essa prática não é
+
+25:25 a 25:50 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Não é engolir tudo. Não é dar gelo. Não é aceitar desrespeito.
+
+  COMPOSIÇÃO Três cartões com ícones mínimos e um quarto cartão: é
+  escolher a hora e o tom.
+
+  MOVIMENTO Quarto cartão entra por último.
+
+  FUNÇÃO Quebrar objeção antes que a prática seja mal aplicada.
+
+  COLA DO THIAGO Dizer que limites e conversa voltam, mas fora do pico
+  emocional.
+
+051 A segunda prática
+
+25:50 a 26:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Seu marido não pode ser o termômetro do seu dia inteiro
+
+  COMPOSIÇÃO Relógio, celular e uma mulher caminhando ao ar livre;
+  sistema visual de pequenos círculos: fé, corpo, amigas, trabalho,
+  prazer.
+
+  MOVIMENTO Círculos aparecem ao redor dela.
+
+  FUNÇÃO Recolocar a mulher no centro sem vender amor-próprio como
+  abandono.
+
+  COLA DO THIAGO Pedir que escreva uma coisa que fazia antes de virar
+  apenas esposa e mãe.
+
+052 Interação Voltar a ser você
+
+26:20 a 26:50 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Esta semana eu volto para __________
+
+  COMPOSIÇÃO Campo vazio em tela, como página de caderno; abaixo,
+  exemplos discretos: cantar, caminhar, ler, pintar.
+
+  MOVIMENTO O campo se preenche com uma palavra em animação neutra.
+
+  FUNÇÃO Produzir compromisso prático e conversa no chat.
+
+  COLA DO THIAGO Pedir uma palavra. Ler uma resposta com delicadeza; não
+  usar muito tempo.
+
+053 Prova A mudança começou nela
+
+26:50 a 27:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA A real mudança teria que acontecer dentro de mim primeiro
+
+  COMPOSIÇÃO Print do depoimento 02 05, com esse trecho e VOLTOU PARA
+  CASA destacados separadamente.
+
+  MOVIMENTO Zoom em primeiro e, só no fim, em voltou para casa.
+
+  FUNÇÃO Provar o começo unilateral sem reduzir o caso a uma técnica.
+
+  COLA DO THIAGO Ler o trecho que fala de confiança, postura e reações
+  antes do resultado.
+
+054 Segredo 3
+
+27:20 a 27:50 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Toda casa tem necessidades que precisam voltar a ser traduzidas
+
+  COMPOSIÇÃO Número 3 grande; quatro formas geométricas conectadas.
+
+  MOVIMENTO Capa de três segundos, depois composição.
+
+  FUNÇÃO Preparar a conversa sobre necessidade sem dogma de gênero.
+
+  COLA DO THIAGO Dizer que cada casal tem linguagem própria; o objetivo
+  é enxergar o que a rotina parou de comunicar.
+
+055 O que ela precisa sentir
+
+27:50 a 28:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Segurança Amor Parceria Amparo
+
+  COMPOSIÇÃO Quatro cartões macios, com ícones de casa, mão, dois
+  caminhos e abrigo.
+
+  MOVIMENTO Um cartão por clique.
+
+  FUNÇÃO Fazer a mulher se sentir compreendida antes de falar do outro.
+
+  COLA DO THIAGO Perguntar qual dessas faltas mais pesa hoje, sem abrir
+  chat ainda.
+
+056 O que ele talvez tente comunicar
+
+28:20 a 28:50 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Paz Respeito Cuidado Intimidade
+
+  COMPOSIÇÃO Quatro cartões espelhados, sem definir necessidades como
+  exclusivas de homens.
+
+  MOVIMENTO Cards surgem em espelho aos do slide anterior.
+
+  FUNÇÃO Criar compreensão sem transformar papel de gênero em regra
+  rígida.
+
+  COLA DO THIAGO Usar linguagem: muitos homens expressam cuidado assim;
+  no ELOS o caso é individualizado.
+
+057 A confusão que vira distância
+
+28:50 a 29:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA O que para você é cobrança por conexão pode chegar nele como
+  acusação
+
+  COMPOSIÇÃO Balões de fala com a mesma frase em duas leituras: intenção
+  e impacto.
+
+  MOVIMENTO As palavras intenção e impacto se trocam de posição.
+
+  FUNÇÃO Preparar o quarto segredo e reduzir julgamento recíproco.
+
+  COLA DO THIAGO Dizer que intenção não elimina efeito, e efeito não
+  define caráter.
+
+058 Interação O que mais falta hoje?
+
+29:20 a 29:55 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA 1 Paz 2 Respeito 3 Cuidado 4 Intimidade
+
+  COMPOSIÇÃO Quatro números enormes em fundo claro; sem detalhes
+  sensíveis na tela.
+
+  MOVIMENTO Número escolhido ganha contorno dourado em demonstração, não
+  em dados reais.
+
+  FUNÇÃO Gerar diagnóstico inicial e alimentar a próxima explicação.
+
+  COLA DO THIAGO Pedir apenas o número no chat. Ecoar padrões sem pedir
+  exposição.
+
+059 Prova Bom homem e bom marido
+
+29:55 a 30:30 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Ele era um bom homem. Eles aprenderam a construir um bom
+  casamento.
+
+  COMPOSIÇÃO Depoimento/caso autorizado em layout editorial, com a frase
+  final em destaque; se não houver print, usar apenas citação curta
+  sobre fundo tipográfico.
+
+  MOVIMENTO A frase final entra após a história curta.
+
+  FUNÇÃO Mostrar que provisão ou caráter isolados não substituem
+  presença conjugal.
+
+  COLA DO THIAGO Contar o exemplo sem estereotipar provedor ou mulher.
+
+060 Segredo 4
+
+30:30 a 31:00 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA A mesma verdade pode chegar como ataque ou como pedido de
+  aproximação
+
+  COMPOSIÇÃO Número 4 grande; dois balões de fala com a mesma intenção e
+  tons visuais diferentes.
+
+  MOVIMENTO Capa e comparação por fade.
+
+  FUNÇÃO Apresentar a ferramenta mais aplicável da aula.
+
+  COLA DO THIAGO Dizer que não se trata de falar manso para engolir dor;
+  é construir chance de ser ouvida.
+
+061 Jeito que fecha a porta
+
+31:00 a 31:30 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Você nunca liga para nós. Eu faço tudo sozinha.
+
+  COMPOSIÇÃO Balão de fala em terracota; ao fundo, porta fecha de forma
+  abstrata, não agressiva.
+
+  MOVIMENTO A frase aparece em duas quebras de linha.
+
+  FUNÇÃO Reconhecer a frase que ela pode usar sem ridicularizá-la.
+
+  COLA DO THIAGO Ler com empatia: há dor verdadeira aqui, mas o formato
+  pode disparar defesa.
+
+062 Jeito que abre conversa
+
+31:30 a 32:00 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Quando você chega tarde sem avisar, eu me sinto sozinha. Quero
+  encontrar uma forma melhor para nós.
+
+  COMPOSIÇÃO Balão em areia; porta abre para luz quente; palavras eu me
+  sinto e para nós em destaque.
+
+  MOVIMENTO Substituir uma frase pela outra em morph suave.
+
+  FUNÇÃO Demonstrar tradução de acusação em pedido claro.
+
+  COLA DO THIAGO Ler devagar e esclarecer: é modelo de estrutura, não
+  frase decorada.
+
+063 A terceira prática
+
+32:00 a 32:35 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Fato Sentimento Pedido
+
+  COMPOSIÇÃO Três cartões empilhados com ícones: cena, coração, ponte;
+  exemplo curto em microtexto no rodapé.
+
+  MOVIMENTO Cada camada entra a cada clique.
+
+  FUNÇÃO Dar ferramenta de execução simples.
+
+  COLA DO THIAGO Ensinar a escrever uma conversa curta; não escolher
+  assunto explosivo para a primeira tentativa.
+
+064 Teste Reescreva uma frase
+
+32:35 a 33:10 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Em vez de acusar, descreva o fato, diga o que sentiu e faça um
+  pedido possível.
+
+  COMPOSIÇÃO Página de caderno dividida em três colunas; exemplo
+  parcial, espaço para ela escrever.
+
+  MOVIMENTO Caneta desenha uma linha em cada coluna.
+
+  FUNÇÃO Transformar entendimento em ação e produzir envolvimento.
+
+  COLA DO THIAGO Pedir que ela escreva no caderno, não no chat; dar 20
+  segundos de silêncio real.
+
+065 Prova Ela voltou a se sentir vista
+
+33:10 a 33:40 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Antes: invisível. Depois: ele está me ouvindo e eu me sinto vista
+  de novo.
+
+  COMPOSIÇÃO Print do depoimento 04 01; destacar invisível e vista de
+  novo, com linhas de leitura.
+
+  MOVIMENTO Destaques aparecem em ordem temporal.
+
+  FUNÇÃO Provar que conversa pode mudar percepção de presença.
+
+  COLA DO THIAGO Ler as duas frases exatas e prosseguir; não transformar
+  em promessa instantânea.
+
+066 Prova Ele começou contrariado
+
+33:40 a 34:10 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Comecei por pressão. Hoje quero caminhar em direção à mudança.
+
+  COMPOSIÇÃO Print do depoimento 02 07; dois trechos em cartões Antes e
+  Agora.
+
+  MOVIMENTO Antes surge primeiro; Agora entra após uma pausa.
+
+  FUNÇÃO Quebrar a objeção ele nunca vai querer participar.
+
+  COLA DO THIAGO Dizer que resistência inicial existe; não forçar nem
+  prometer adesão.
+
+067 As quatro peças juntas
+
+34:10 a 34:40 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Vínculo Regulação Necessidades Comunicação
+
+  COMPOSIÇÃO Quatro peças de um mosaico se aproximam, mas não formam
+  ainda o símbolo final.
+
+  MOVIMENTO Montagem de mosaico em quatro cliques.
+
+  FUNÇÃO Recapitular os segredos e criar necessidade de ordem.
+
+  COLA DO THIAGO Dizer que saber cada peça ajuda, mas o resultado
+  depende da sequência e do caso.
+
+068 Por que as dicas soltas falham
+
+34:40 a 35:10 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Uma conversa certa no momento errado pode virar outra briga.
+
+  COMPOSIÇÃO Calendário, termômetro emocional e balão de fala; três
+  objetos desconectados.
+
+  MOVIMENTO Os objetos tentam se encaixar e param.
+
+  FUNÇÃO Criar lacuna entre conteúdo gratuito e acompanhamento.
+
+  COLA DO THIAGO Falar que uma dica não vê a história, a ferida e a hora
+  certa da casa dela.
+
+069 O caminho tem ordem
+
+35:10 a 35:40 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Detox Emocional Inversão de Força Blindagem do Casal
+
+  COMPOSIÇÃO Três degraus em tons de areia, dourado e marrom; ícones:
+  gota clara, seta circular, casa protegida.
+
+  MOVIMENTO Degraus acendem na ordem.
+
+  FUNÇÃO Revelar a arquitetura da solução.
+
+  COLA DO THIAGO Apresentar como sequência de trabalho, não como três
+  aulas avulsas.
+
+070 1 Detox Emocional
+
+35:40 a 36:10 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Parar de alimentar o que intoxica a casa e recuperar a própria
+  estabilidade
+
+  COMPOSIÇÃO Gota clara dissolvendo o copo turvo; card com palavras:
+  reações, feridas, padrões.
+
+  MOVIMENTO A água clareia de forma parcial, não total.
+
+  FUNÇÃO Explicar o primeiro pilar de modo concreto.
+
+  COLA DO THIAGO Conectar com Silêncio Estratégico, origem e cuidado de
+  si.
+
+071 2 Inversão de Força
+
+36:10 a 36:40 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Sair da perseguição e voltar a ocupar o seu centro
+
+  COMPOSIÇÃO Composição de duas linhas: antes, ela corre atrás de uma
+  porta; depois, ela para diante de um espelho iluminado.
+
+  MOVIMENTO A direção da linha se inverte lentamente.
+
+  FUNÇÃO Explicar autonomia e nova postura sem jogos ou gelo.
+
+  COLA DO THIAGO Reforçar: não é fazer falta de propósito, é parar de
+  reagir pelo medo.
+
+072 3 Blindagem do Casal
+
+36:40 a 37:10 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Criar acordos, linguagem e rotina para que o mesmo ciclo não
+  volte a governar a casa
+
+  COMPOSIÇÃO Casa vista de fora com luzes nas janelas; linhas de
+  proteção discretas; sem cadeado.
+
+  MOVIMENTO Linhas se formam ao redor da casa.
+
+  FUNÇÃO Mostrar que resultado precisa de manutenção e prática.
+
+  COLA DO THIAGO Falar de acordos, conversa, intimidade e correção de
+  rota.
+
+073 Por que a ordem importa
+
+37:10 a 37:40 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Ferramenta sem alicerce vira nova cobrança
+
+  COMPOSIÇÃO Três blocos de construção: primeiro bloco rachado, depois
+  base firme, por fim ponte.
+
+  MOVIMENTO Primeira ponte desaba discretamente; segunda se sustenta.
+
+  FUNÇÃO Dar uma explicação causal para o método ELOS.
+
+  COLA DO THIAGO Dizer que o programa não começa despejando frases
+  prontas.
+
+074 O que você já recebeu hoje
+
+37:40 a 38:15 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Pausar a escalada Voltar para si Reescrever a conversa
+
+  COMPOSIÇÃO Três cartões de prática com check dourado; resumo de uma
+  linha cada.
+
+  MOVIMENTO Os cartões entram como revisão, sem música triunfal.
+
+  FUNÇÃO Fazer a aula parecer completa e aumentar confiança.
+
+  COLA DO THIAGO Recapitular e orientar que os três exercícios são
+  começo, não tratamento completo.
+
+075 Onde ela trava sozinha
+
+38:15 a 38:50 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA A hora em que ele responde torto. A hora em que a antiga ferida
+  abre. A hora em que você não sabe qual passo vem depois.
+
+  COMPOSIÇÃO Três microcenas em sequência: mensagem no celular, mesa
+  após conversa, mulher com caderno e expressão concentrada.
+
+  MOVIMENTO Uma cena por frase.
+
+  FUNÇÃO Criar demanda real por correção e personalização.
+
+  COLA DO THIAGO Dizer que é justamente nessas horas que conselho solto
+  costuma falhar.
+
+076 Não é incapacidade
+
+38:50 a 39:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Você pode começar sozinha. Só não precisa continuar sem direção.
+
+  COMPOSIÇÃO Mulher atravessa um corredor; uma luz-guia aparece à
+  frente, sem outra pessoa puxando-a.
+
+  MOVIMENTO Luz surge depois da primeira frase.
+
+  FUNÇÃO Posicionar acompanhamento como aceleração e suporte, não
+  dependência.
+
+  COLA DO THIAGO Frase central aprovada: começar sozinha não significa
+  lutar sozinha até o fim.
+
+077 Prova O processo constrói fundação
+
+39:20 a 40:00 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Não tem preço essa paz. Agora temos a fundação para um casamento
+  de verdade.
+
+  COMPOSIÇÃO Print do depoimento 01 05/06; destaque para fundação e
+  trabalho continua.
+
+  MOVIMENTO Destaque em duas etapas.
+
+  FUNÇÃO Fazer a ponte entre resultado e continuidade.
+
+  COLA DO THIAGO Ler também a frase o trabalho continua; evitar
+  impressão de cura instantânea.
+
+078 A diferença entre alívio e reconstrução
+
+40:00 a 40:35 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Alívio acalma a semana. Reconstrução muda a forma como a casa
+  atravessa a próxima crise.
+
+  COMPOSIÇÃO Linha temporal: hoje → próxima conversa → próxima crise;
+  duas trajetórias, uma pontilhada e uma com base.
+
+  MOVIMENTO Trajetórias se desenham lado a lado.
+
+  FUNÇÃO Elevar o valor do processo de 90 dias.
+
+  COLA DO THIAGO Dizer que a meta não é um jantar bom, é uma nova forma
+  de atravessar tensão.
+
+079 A ponte para o ELOS
+
+40:35 a 41:05 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Há casas que precisam de mais do que uma aula. Precisam de um
+  caminho acompanhado.
+
+  COMPOSIÇÃO Marca ELOS sobre o mapa dos três passos; visual já introduz
+  paleta do programa.
+
+  MOVIMENTO Símbolo ELOS forma-se com três linhas.
+
+  FUNÇÃO Iniciar transição comercial sem ruptura de tom.
+
+  COLA DO THIAGO Pausa breve. Perguntar se ela quer entender como
+  funciona o acompanhamento.
+
+Programa ELOS e seleção
+
+080 O que é o ELOS
+
+41:05 a 41:30 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Programa ELOS de Acompanhamento de Casais
+
+  COMPOSIÇÃO Capa premium: monograma, fundo areia, linha dourada e
+  subtítulo 90 dias de direção individual.
+
+  MOVIMENTO Capa entra por fade; não usar efeitos de venda.
+
+  FUNÇÃO Nomear o objeto de desejo antes de falar da sessão de
+  diagnóstico.
+
+  COLA DO THIAGO Dizer claramente: o ELOS é o programa; a conversa
+  existe para avaliar se faz sentido entrar nele.
+
+081 A promessa do processo
+
+41:30 a 42:00 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Um caminho para sair do ciclo, reconstruir presença e criar um
+  relacionamento novo
+
+  COMPOSIÇÃO Três painéis visuais: mesa pacificada, conversa com escuta,
+  casal caminhando de costas sem mostrar rostos.
+
+  MOVIMENTO Painéis se sucedem com texto curto no rodapé.
+
+  FUNÇÃO Converter os pilares em vida concreta.
+
+  COLA DO THIAGO Não prometer decisão do marido. Falar da dinâmica e da
+  capacidade dela de agir diferente.
+
+082 O que torna o processo diferente
+
+42:00 a 42:30 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Você não recebe uma aula e volta para casa sem saber o que fazer
+  na terça-feira.
+
+  COMPOSIÇÃO Linha de acompanhamento: sessão individual → aplicação na
+  semana → correção → próxima sessão; estética de agenda, não funil.
+
+  MOVIMENTO Linha progride em quatro passos.
+
+  FUNÇÃO Valorizar personalização e continuidade.
+
+  COLA DO THIAGO Dizer que a orientação considera a fase, as tentativas,
+  o casamento e a história dela.
+
+083 A estrutura do ELOS
+
+42:30 a 43:00 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA 90 dias 10 sessões individuais com Thiago Direção para o seu caso
+
+  COMPOSIÇÃO Três números muito grandes; Thiago em foto autorizada
+  pequena, não dominante.
+
+  MOVIMENTO Um número entra por clique.
+
+  FUNÇÃO Materializar o principal entregável.
+
+  COLA DO THIAGO Falar de sessões individuais, não prometer que marido é
+  obrigado a participar.
+
+084 O Genograma Personalizado
+
+43:00 a 43:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Entender o que veio antes para não repetir sem perceber
+
+  COMPOSIÇÃO Árvore de relações simplificada e elegante; não mostrar
+  genograma real de aluno.
+
+  MOVIMENTO Linhas da árvore aparecem e chegam a um ponto atual.
+
+  FUNÇÃO Explicar a personalização de origem e padrões.
+
+  COLA DO THIAGO Dizer que ele ajuda a enxergar o que cada um trouxe
+  para a relação.
+
+085 Aurora
+
+43:25 a 43:50 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Direção entre as sessões, quando a dúvida aparece fora do horário
+  marcado
+
+  COMPOSIÇÃO Mockup real da Aurora, se houver; se não houver, usar
+  somente logotipo e descrição sem inventar interface.
+
+  MOVIMENTO Zoom em uma orientação curta verdadeira e aprovada, sem
+  dados pessoais.
+
+  FUNÇÃO Mostrar continuidade prática.
+
+  COLA DO THIAGO Não chamar de terapeuta nem prometer substituição de
+  sessão; é apoio e organização.
+
+086 Comunidade Inabaláveis
+
+43:50 a 44:15 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Você deixa de carregar essa história em silêncio
+
+  COMPOSIÇÃO Card editorial com círculos de apoio; não usar prints de
+  conversas sem autorização.
+
+  MOVIMENTO Círculos se conectam suavemente.
+
+  FUNÇÃO Atender necessidade de pertencimento e normalização.
+
+  COLA DO THIAGO Dizer que comunidade não substitui atendimento, mas
+  sustenta compromisso e caminhada.
+
+087 Aplicativo ELOS
+
+44:15 a 44:40 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Ferramentas para as horas em que a conversa acontece de verdade
+
+  COMPOSIÇÃO Mockup real do app usando a referência enviada: cards em
+  marfim, bordas suaves e microícones; apresentar apenas funções
+  prontas.
+
+  MOVIMENTO Rolagem lenta do mockup ou montagem de três cards.
+
+  FUNÇÃO Fazer o programa parecer utilizável no cotidiano.
+
+  COLA DO THIAGO Citar ferramentas existentes de modo funcional, sem
+  listar tudo se alongar.
+
+088 O programa como um todo
+
+44:40 a 45:05 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Direção individual Ferramentas Continuidade Comunidade
+
+  COMPOSIÇÃO Quatro peças formam o emblema ELOS; visual de sistema
+  integrado.
+
+  MOVIMENTO Peças chegam uma a uma e encaixam.
+
+  FUNÇÃO Transformar stack em infraestrutura de reconstrução.
+
+  COLA DO THIAGO Resumo em uma frase: o que você aprendeu hoje vira um
+  processo acompanhado por 90 dias.
+
+089 Prova antes da decisão
+
+45:05 a 45:30 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA A distância virou conversa. A frieza virou carinho. O silêncio
+  virou presença.
+
+  COMPOSIÇÃO Print do depoimento 02 06; texto em destaque sobre recorte
+  original; autorizar nome/foto antes de exportar.
+
+  MOVIMENTO Três frases entram sequencialmente.
+
+  FUNÇÃO Provar transformação por linguagem do aluno, não por promessas
+  do apresentador.
+
+  COLA DO THIAGO Ler a origem do depoimento: ele descreve que a cura
+  começou nele. Não acrescentar garantia.
+
+090 Por que não é para todo mundo
+
+45:30 a 45:55 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Acompanhamento próximo exige compromisso dos dois lados
+
+  COMPOSIÇÃO Cadeira de atendimento, caderno, calendário e pequeno selo
+  até 10 novas entradas.
+
+  MOVIMENTO Selo aparece após o racional.
+
+  FUNÇÃO Criar exclusividade gentil e verdadeira.
+
+  COLA DO THIAGO Dizer que a equipe protege a qualidade do
+  acompanhamento e prioriza quem quer construir um novo relacionamento.
+
+091 Como alguém entra
+
+45:55 a 46:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Aplicação Conversa de diagnóstico Decisão de encaixe Entrada no
+  ELOS
+
+  COMPOSIÇÃO Quatro etapas horizontais; a palavra ELOS é a chegada,
+  maior que as demais.
+
+  MOVIMENTO Cada etapa ilumina a seguinte.
+
+  FUNÇÃO Posicionar a aplicação como acesso ao programa, não brinde.
+
+  COLA DO THIAGO Explicar que a primeira conversa é com especialista da
+  equipe e pode incluir direcionamento.
+
+092 A Sessão de Diagnóstico
+
+46:25 a 46:55 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA 45 minutos para entender o caso, dar um primeiro direcionamento e
+  verificar se o ELOS faz sentido
+
+  COMPOSIÇÃO Duas cadeiras ou videochamada abstrata; cronômetro 45 min;
+  sem aparência de consulta gratuita genérica.
+
+  MOVIMENTO O número 45 aparece somente depois da descrição.
+
+  FUNÇÃO Dar clareza operacional e reduzir ansiedade.
+
+  COLA DO THIAGO Dizer que a especialista avalia encaixe e, quando faz
+  sentido, a entrada pode acontecer na própria conversa.
+
+093 O que a equipe procura
+
+46:55 a 47:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Disposição real para construir um novo relacionamento
+
+  COMPOSIÇÃO Fundo claro; três palavras de apoio: sinceridade, abertura,
+  execução. Não incluir renda em tela ou fala.
+
+  MOVIMENTO Palavras entram em sequência.
+
+  FUNÇÃO Definir seleção sem humilhar ou esconder critério financeiro.
+
+  COLA DO THIAGO Dizer: não é prova de valor pessoal. É proteção do
+  processo e das vagas disponíveis.
+
+094 Se você for aceita
+
+47:20 a 47:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Você não entra para receber conteúdo. Você entra para ter direção
+  até saber caminhar com segurança.
+
+  COMPOSIÇÃO Imagem do corredor do slide 76, agora com três marcos ELOS
+  no caminho.
+
+  MOVIMENTO Marcos se acendem.
+
+  FUNÇÃO Aumentar desejo pela mentoria, não pela sessão.
+
+  COLA DO THIAGO Falar de correção, personalização e não lutar sozinha.
+
+095 Primeira garantia
+
+47:45 a 48:10 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA 7 dias para decidir com tranquilidade
+
+  COMPOSIÇÃO Selo simples 7 dias; texto mínimo: se não fizer sentido,
+  solicite o reembolso dentro do prazo legal informado.
+
+  MOVIMENTO Selo entra sem efeito de carimbo agressivo.
+
+  FUNÇÃO Reduzir risco sem ampliar condições jurídicas além do
+  confirmado.
+
+  COLA DO THIAGO Dizer uma frase clara. Os termos devem trazer a regra
+  completa.
+
+096 Garantia de Acompanhamento
+
+48:10 a 48:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA 90 dias de processo + 3 sessões individuais com Thiago se você
+  cumprir o processo e ainda precisar de direção
+
+  COMPOSIÇÃO Fluxo de duas etapas: 90 dias → +3 sessões; rodapé curto
+  com condição objetiva.
+
+  MOVIMENTO A segunda etapa aparece após a condição.
+
+  FUNÇÃO Ancorar cuidado e o conceito de não ser abandonada ao fim.
+
+  COLA DO THIAGO Usar exatamente a redação aprovada: comparecer, aplicar
+  orientações e ainda precisar de direção para consolidar o processo.
+
+097 Capacidade real
+
+48:45 a 49:10 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA No máximo 10 novas entradas
+
+  COMPOSIÇÃO Calendário de agenda com dez pontos discretos; sem contador
+  falso, sem vaga piscando.
+
+  MOVIMENTO Dez pontos surgem; nenhum se esgota em animação.
+
+  FUNÇÃO Justificar escassez pela proximidade do acompanhamento.
+
+  COLA DO THIAGO Tom gentil: a capacidade é limitada porque há sessões,
+  análise e direção próxima.
+
+098 Janela de aplicação
+
+49:10 a 49:35 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA A ficha fica aberta por 48 horas
+
+  COMPOSIÇÃO Relógio elegante e calendário de dois dias; microtexto: as
+  fichas entram na ordem de análise.
+
+  MOVIMENTO Calendário vira duas páginas.
+
+  FUNÇÃO Criar urgência verdadeira antes do botão.
+
+  COLA DO THIAGO Dizer que depois a equipe fecha as fichas para iniciar
+  os diagnósticos.
+
+099 Transição para a aplicação
+
+49:35 a 49:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Se esse processo faz sentido para você, a aplicação está prestes
+  a abrir
+
+  COMPOSIÇÃO Tela de respiro; botão ainda não visível, apenas uma luz
+  dourada abaixo da tela.
+
+  MOVIMENTO Segurar por 10 segundos; no fim, liberar pop-up e avançar.
+
+  FUNÇÃO Preparar o botão no instante correto.
+
+  COLA DO THIAGO Pausa curta. O próximo slide precisa entrar a 49:45 com
+  o botão aparecendo na página.
+
+Aplicação aberta e future pace
+
+100 Aplicação aberta
+
+49:45 a 50:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Quero ser considerada para o Programa ELOS
+
+  COMPOSIÇÃO Botão grande abaixo do vídeo: QUERO APLICAR. Na tela,
+  apenas título e seta discreta; não chamar de sessão grátis.
+
+  MOVIMENTO O botão aparece neste exato momento e permanece disponível
+  até o fim.
+
+  FUNÇÃO Cumprir o CTA no minuto 50 e transformar aplicação em gesto de
+  desejo pelo ELOS.
+
+  COLA DO THIAGO Primeira chamada explícita: clique, preencha com
+  sinceridade e deixe a equipe entender seu caso.
+
+101 O que a ficha faz
+
+50:20 a 50:50 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA A ficha ajuda a equipe a entender sua história antes de falar com
+  você
+
+  COMPOSIÇÃO Cartões de perguntas: tempo de relação, fase atual,
+  liberdade de decisão, renda familiar, disponibilidade para investir.
+  Não mostrar valores ou critério de renda.
+
+  MOVIMENTO Cartões entram sem parecer formulário burocrático.
+
+  FUNÇÃO Preparar para as perguntas reais e reduzir abandono.
+
+  COLA DO THIAGO Dizer que não há resposta certa; verdade melhora o
+  direcionamento e a avaliação de encaixe.
+
+102 O que acontece depois
+
+50:50 a 51:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Sua ficha é analisada Você recebe prioridade conforme a ordem de
+  aplicação A especialista marca a conversa
+
+  COMPOSIÇÃO Três passos com calendário e envelope; final aponta para
+  Programa ELOS.
+
+  MOVIMENTO Passos progridem em linha.
+
+  FUNÇÃO Dar previsibilidade à operação pós-clique.
+
+  COLA DO THIAGO Dizer que a especialista pode orientar e verificar se a
+  entrada no programa é adequada.
+
+103 Bônus até 23h59
+
+51:20 a 51:50 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Fura Fila do Diagnóstico Direcionamento Privado extra com Thiago
+
+  COMPOSIÇÃO Dois cartões premium, sem preço e sem presente genérico;
+  relógio pequeno no canto.
+
+  MOVIMENTO Primeiro cartão, depois segundo; sem explosão gráfica.
+
+  FUNÇÃO Aplicar urgência real e aumentar aplicação no dia.
+
+  COLA DO THIAGO Explicar: prioridade de análise e primeiros horários; o
+  direcionamento extra vale para aprovada que entrar no ELOS.
+
+104 Por que a prioridade existe
+
+51:50 a 52:15 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA As primeiras fichas permitem organizar a agenda antes dos demais
+  diagnósticos
+
+  COMPOSIÇÃO Agenda com primeiros blocos de horário destacados em
+  dourado suave.
+
+  MOVIMENTO Blocos aparecem em ordem cronológica.
+
+  FUNÇÃO Dar reason why para o fura-fila.
+
+  COLA DO THIAGO Sem dramatizar. Repetir que a janela de 48h segue
+  aberta, mas o bônus termina às 23h59.
+
+105 O convite é gentil
+
+52:15 a 52:40 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Você não precisa provar que merece ajuda. Só precisa ser honesta
+  sobre o quanto está disposta a construir.
+
+  COMPOSIÇÃO Fundo claro, uma cadeira vazia e uma cadeira ocupada de
+  costas; muito espaço negativo.
+
+  MOVIMENTO Texto aparece em duas partes.
+
+  FUNÇÃO Sustentar polaridade sem agressividade.
+
+  COLA DO THIAGO Falar que há poucas vagas por capacidade, não por
+  superioridade de ninguém.
+
+106 Quem deve aplicar
+
+52:40 a 53:05 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Ainda quer lutar Aceita começar por você Quer direção para
+  executar
+
+  COMPOSIÇÃO Três checkmarks discretos em cartões marfim; sem menção a
+  renda.
+
+  MOVIMENTO Checks entram um a um.
+
+  FUNÇÃO Filtrar por comprometimento e clareza.
+
+  COLA DO THIAGO Ler os três critérios com tom de convite, não de
+  ameaça.
+
+107 Quem deve esperar
+
+53:05 a 53:30 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Quem já decidiu sair sem olhar para trás Quem procura fórmula
+  mágica Quem vive situação de perigo
+
+  COMPOSIÇÃO Três linhas simples, sem cruzes grandes; rodapé: proteção
+  vem antes.
+
+  MOVIMENTO Cada linha entra suavemente.
+
+  FUNÇÃO Reduzir aplicação desqualificada e cuidar do posicionamento.
+
+  COLA DO THIAGO Respeitar cada decisão; não usar eu prefiro dez certas
+  que cem erradas.
+
+108 O custo de adiar
+
+53:30 a 54:00 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Você já sabe o preço de tentar do mesmo jeito
+
+  COMPOSIÇÃO Calendário com os últimos 12 meses em marcas suaves; uma
+  estrada circular termina no mesmo ponto.
+
+  MOVIMENTO Linha circular se fecha; depois, aparece uma saída dourada.
+
+  FUNÇÃO Criar urgência pela repetição, não por terror.
+
+  COLA DO THIAGO Dizer que ela não está atrasada nem fracassou; apenas
+  não precisa repetir a mesma tentativa por mais um ano.
+
+109 Prova Mais do que paz por alguns dias
+
+54:00 a 54:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Hoje resolvemos diferente e temos 95 por cento de momentos bons
+
+  COMPOSIÇÃO Print do depoimento 03 04 com destaque no resultado e na
+  frase resolvemos rápido, sem maiores traumas.
+
+  MOVIMENTO Destaque em ordem: resolver → sem trauma → 95 por cento.
+
+  FUNÇÃO Provar manutenção e não perfeição.
+
+  COLA DO THIAGO Dizer que diferenças continuam existindo; o que muda é
+  a forma de atravessá-las.
+
+110 Aplicar é o primeiro passo
+
+54:25 a 54:50 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Clica no botão e preenche agora com calma e verdade
+
+  COMPOSIÇÃO Tela com botão representado, seta curta e três passos:
+  clicar, responder, enviar.
+
+  MOVIMENTO Cada passo acende.
+
+  FUNÇÃO Remover ambiguidade de ação.
+
+  COLA DO THIAGO Dar instrução literal. Manter o botão no canto dos
+  próximos slides.
+
+111 Interação de compromisso
+
+54:50 a 55:20 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Se você já começou a preencher, escreva EU COMEÇO
+
+  COMPOSIÇÃO Fundo marrom com frase em dourado; botão real ainda visível
+  na página.
+
+  MOVIMENTO Frase sobe levemente após 3 segundos.
+
+  FUNÇÃO Criar prova de ação sem afirmar nomes ou volume ainda.
+
+  COLA DO THIAGO Pedir EU COMEÇO. O arquivo do chat futuro define os
+  comentários e reações exatos.
+
+112 Você não entra para ficar dependente
+
+55:20 a 55:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Você entra para aprender a caminhar sem voltar para o mesmo ciclo
+
+  COMPOSIÇÃO Caminho de três marcos ELOS, agora com a mulher seguindo de
+  forma autônoma.
+
+  MOVIMENTO Os marcos ficam para trás conforme ela avança.
+
+  FUNÇÃO Responder a objeção implícita de dependência e reforçar
+  garantia de acompanhamento.
+
+  COLA DO THIAGO Falar: direção não substitui sua força; ela organiza a
+  força que você já tem.
+
+113 O futuro concreto Domingo de manhã
+
+55:45 a 56:10 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Você acorda sem ensaiar mentalmente a primeira frase do dia
+
+  COMPOSIÇÃO Quarto com luz entrando, duas xícaras na mesa de cabeceira,
+  atmosfera calma e realista.
+
+  MOVIMENTO Corte cinematográfico, sem usar a palavra imagine.
+
+  FUNÇÃO Iniciar future pace declarativo e sensorial.
+
+  COLA DO THIAGO Narrar em presente, como cena. Sem prometer que todo
+  domingo será perfeito.
+
+114 O futuro concreto Cozinha
+
+56:10 a 56:35 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Uma discordância aparece e o seu corpo não entra em alerta
+
+  COMPOSIÇÃO Cozinha iluminada; casal em distância respeitosa, sem
+  encenação romântica; não há porta batendo.
+
+  MOVIMENTO Movimento de câmera leve rumo a uma mesa.
+
+  FUNÇÃO Tornar o benefício emocional físico e específico.
+
+  COLA DO THIAGO Falar: o problema aparece, vocês conversam, ajustam e o
+  dia continua.
+
+115 O futuro concreto À noite
+
+56:35 a 57:00 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Você encosta a cabeça no travesseiro sem fazer a conta de quanto
+  tempo ainda aguenta
+
+  COMPOSIÇÃO Quarto em luz suave, foco em travesseiro e janela; silêncio
+  visual.
+
+  MOVIMENTO Fade lento para texto final.
+
+  FUNÇÃO Fechar future pace com alívio, não euforia.
+
+  COLA DO THIAGO Conectar isso a direção, prática e acompanhamento, não
+  a uma promessa mágica.
+
+116 A escolha permanece sua
+
+57:00 a 57:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA O ELOS existe para quem decidiu não atravessar esse caminho sem
+  direção
+
+  COMPOSIÇÃO Marca ELOS, botão destacado, ambiente marfim e dourado.
+
+  MOVIMENTO Texto surge depois de 2 segundos de pausa.
+
+  FUNÇÃO Reforçar agência e convidar sem insistência agressiva.
+
+  COLA DO THIAGO Dizer que não é compra por impulso; é uma conversa para
+  avaliar encaixe.
+
+117 Recado operacional
+
+57:25 a 57:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA 48 horas para aplicar 10 novas entradas bônus até 23h59
+
+  COMPOSIÇÃO Três chips informativos, botão visualizado abaixo; nada
+  além disso.
+
+  MOVIMENTO Chips aparecem um por vez.
+
+  FUNÇÃO Fixar prazo, capacidade e bônus antes das objeções.
+
+  COLA DO THIAGO Recapitulação rápida. Não reiniciar pitch.
+
+Objeções e encerramento
+
+118 Pergunta Ele não quer participar
+
+57:45 a 58:15 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA E se ele não quiser participar de nada?
+
+  COMPOSIÇÃO Balão de chat elegante com nome a definir posteriormente;
+  ao lado, Vínculo de Alma em ícone.
+
+  MOVIMENTO Balão entra como comentário ao vivo; sem texto adicional.
+
+  FUNÇÃO Responder à maior objeção com a Big Domino.
+
+  COLA DO THIAGO Dizer que as sessões começam por ela; se ele quiser
+  entrar depois, o caso é acolhido. Não prometer adesão.
+
+119 Pergunta Houve traição
+
+58:15 a 58:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Meu caso é traição. Ainda faz sentido olhar para isso?
+
+  COMPOSIÇÃO Balão de chat e faixa inferior: restaurar não é engolir.
+
+  MOVIMENTO Faixa aparece antes da resposta.
+
+  FUNÇÃO Dar segurança para caso extremo e manter responsabilidade do
+  agressor.
+
+  COLA DO THIAGO Validar dor, repetir que cada caso é avaliado e que o
+  processo não pede apagamento de limites.
+
+120 Pergunta Ele saiu de casa
+
+58:45 a 59:15 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Ele já saiu. Ainda existe caminho?
+
+  COMPOSIÇÃO Duas casas conectadas por um fio dourado muito fino; sem
+  prometer retorno.
+
+  MOVIMENTO Fio acende discretamente.
+
+  FUNÇÃO Reforçar caso de oito meses separados.
+
+  COLA DO THIAGO Dizer que endereço não encerra toda possibilidade, mas
+  a avaliação precisa considerar a história real.
+
+121 Pergunta Falta de tempo
+
+59:15 a 59:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Eu trabalho e tenho filhos. Vou dar conta?
+
+  COMPOSIÇÃO Agenda semanal com 45 min de sessão e pequenas ações
+  integradas a conversas reais.
+
+  MOVIMENTO Agenda recebe uma marca dourada no horário da sessão.
+
+  FUNÇÃO Quebrar objeção de tempo sem prometer facilidade.
+
+  COLA DO THIAGO Explicar que é online, marcado com a pessoa, e que
+  muitas aplicações acontecem no cotidiano.
+
+122 Pergunta Terapia anterior
+
+59:45 a 60:15 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Já procurei ajuda e não funcionou. O que seria diferente?
+
+  COMPOSIÇÃO Dois mapas: um com seta solta, outro com rota de três
+  etapas; nenhuma crítica à terapia.
+
+  MOVIMENTO A rota ELOS aparece após reconhecimento da frustração.
+
+  FUNÇÃO Diferenciar por ordem, personalização e acompanhamento, sem
+  desqualificar terapia.
+
+  COLA DO THIAGO Dizer que terapia pode ajudar; o ELOS foca num caminho
+  orientado e aplicável ao caso.
+
+123 Pergunta Dinheiro do casal
+
+60:15 a 60:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Como eu converso se a decisão financeira também envolve ele?
+
+  COMPOSIÇÃO Duas cadeiras diante de uma mesa; símbolo de diálogo, não
+  de cifrão.
+
+  MOVIMENTO Um cartão: leve isso com sinceridade para a sessão.
+
+  FUNÇÃO Antecipar a objeção sem explicar seleção por renda no webinar.
+
+  COLA DO THIAGO Dizer que o formulário e a especialista permitem olhar
+  contexto e decisão com responsabilidade; não prometer condição
+  específica.
+
+124 Pergunta Moro fora
+
+60:45 a 61:10 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Moro fora do Brasil. Posso participar?
+
+  COMPOSIÇÃO Mapa minimalista com pontos Brasil, Austrália e Estados
+  Unidos; UI de videochamada abstrata.
+
+  MOVIMENTO Pontos se ligam à tela.
+
+  FUNÇÃO Remover barreira geográfica.
+
+  COLA DO THIAGO Dizer que as sessões são online e horário é ajustado na
+  conversa.
+
+125 Pergunta Quem é Thiago?
+
+61:10 a 61:35 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Experiência vivida Mais de 10 anos Mais de 2 mil casais
+  acompanhados
+
+  COMPOSIÇÃO Foto autorizada de Thiago com Juliana, ou retrato
+  profissional; três dados em colunas.
+
+  MOVIMENTO Dados entram um a um.
+
+  FUNÇÃO Fechar autoridade sem prolongar currículo.
+
+  COLA DO THIAGO Falar também que ele já viveu a posição de marido
+  fechado e buscou ajuda.
+
+126 A escolha desta noite
+
+61:35 a 62:05 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Continuar tentando no escuro ou pedir direção para o seu caso
+
+  COMPOSIÇÃO Duas portas abstratas: uma volta à estrada circular; outra
+  abre para luz e mapa. Sem seta coercitiva.
+
+  MOVIMENTO A segunda porta abre lentamente.
+
+  FUNÇÃO Recapitular a decisão sem pressionar vergonha.
+
+  COLA DO THIAGO Falar que nenhuma decisão substitui responsabilidade
+  pessoal; o convite é para quem quer mudar o caminho.
+
+127 Último convite
+
+62:05 a 62:30 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Quero ser considerada para o Programa ELOS
+
+  COMPOSIÇÃO Botão em tela e frase central; monograma ao fundo.
+
+  MOVIMENTO Pequena pausa de 5 segundos para ação.
+
+  FUNÇÃO Dar CTA final conciso.
+
+  COLA DO THIAGO Pedir clique e preenchimento. Não criar novo argumento.
+
+128 O que ela leva, mesmo antes do ELOS
+
+62:30 a 62:55 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Pausar a escalada Voltar para si Reescrever a conversa
+
+  COMPOSIÇÃO Três práticas em forma de cartões já vistos, agora menores;
+  botão mantém prioridade visual.
+
+  MOVIMENTO Cartões entram por sequência.
+
+  FUNÇÃO Entregar valor e preservar confiança de quem ainda não aplicou.
+
+  COLA DO THIAGO Retomar a prática desta semana em 20 segundos.
+
+129 A frase que fica
+
+62:55 a 63:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Um começa. Do jeito certo.
+
+  COMPOSIÇÃO Fundo marrom profundo; frase dourada; sem outros elementos.
+
+  MOVIMENTO Sem animação por três segundos.
+
+  FUNÇÃO Fechar o arco da aula.
+
+  COLA DO THIAGO Dizer: você pode começar sozinha, mas não precisa
+  seguir sem direção.
+
+130 Encaminhamento
+
+63:25 a 63:55 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA A equipe analisa as fichas e entra em contato para a Sessão de
+  Diagnóstico
+
+  COMPOSIÇÃO Linha simples aplicação → equipe → conversa → ELOS; botão
+  no rodapé.
+
+  MOVIMENTO Linha se desenha uma vez.
+
+  FUNÇÃO Informar próximo passo real e reduzir ansiedade pós-webinar.
+
+  COLA DO THIAGO Agradecer. Reforçar que a ficha fica aberta por 48
+  horas.
+
+131 Fechamento de fé
+
+63:55 a 64:25 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Que Deus dê clareza, coragem e direção para o próximo passo
+
+  COMPOSIÇÃO Caderno, luz de manhã e marca ELOS muito discreta; sem
+  versículo em tela.
+
+  MOVIMENTO Fade suave.
+
+  FUNÇÃO Honrar a camada cristã como apoio, não argumento de venda.
+
+  COLA DO THIAGO Breve fala de oração/encorajamento no tom do Thiago,
+  sem prometer intervenção divina em resultado.
+
+132 Tela de encerramento
+
+64:25 a 64:45 | Tempo contado a partir da primeira fala do Thiago
+
+  TELA Aplicação aberta por 48 horas Programa ELOS de Acompanhamento de
+  Casais
+
+  COMPOSIÇÃO Tela final com botão e três dados operacionais: 10 novas
+  entradas, bônus até 23h59, diagnóstico de 45 min.
+
+  MOVIMENTO Segurar tela por 20 segundos após a despedida; música baixa.
+
+  FUNÇÃO Permitir ação tardia e deixar instrução clara.
+
+  COLA DO THIAGO Sem fala adicional; o botão permanece visível na
+  página.
+
+Checklist de produção antes da gravação
+
+-   Cronometrar um ensaio real do Thiago com as notas híbridas. O botão
+    precisa entrar entre 49:45 e 50:20, não depois.
+
+-   Validar todos os textos da garantia nos termos e no contrato antes
+    de gravar a fala do slide 96.
+
+-   Separar os prints autorizados: 04 03, 01 07 e 01 08, 02 02, 02 05,
+    04 01, 02 07, 01 05/06, 02 06 e 03 04. Trocar por citação
+    anonimizada se qualquer autorização estiver ausente.
+
+-   Disponibilizar mockups reais de Aurora, aplicativo e comunidade. Não
+    criar interface que prometa funcionalidade inexistente.
+
+-   Configurar a página para mostrar o botão de aplicação a partir de
+    49:45 e mantê-lo fixo até o fim.
+
+-   Produzir a planilha de chat fake somente depois de congelar o
+    teleprompter e a ordem final das telas.
+
+-   Testar na ferramenta o tamanho das notas; se houver limite curto,
+    usar a versão resumida da cola e manter o teleprompter literal em
+    documento paralelo.

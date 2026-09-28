@@ -6,8 +6,8 @@ CREATE TABLE IF NOT EXISTS users (
   active INTEGER NOT NULL DEFAULT 1,
   created_at TEXT NOT NULL DEFAULT (datetime('now'))
 );
-WITH RECURSIVE n(x) AS (SELECT 0 UNION ALL SELECT x+1 FROM n WHERE x < 68)
-INSERT OR IGNORE INTO slides (id, deck_slug, position) SELECT 'slide-' || (x+1), 'lps-slide-aula06', x FROM n;
+WITH RECURSIVE n(x) AS (SELECT 0 UNION ALL SELECT x+1 FROM n WHERE x < 131)
+INSERT OR IGNORE INTO slides (id, deck_slug, position) SELECT 'slide-' || (x+1), 'pac-web01-slides', x FROM n;
 
 CREATE TABLE IF NOT EXISTS sessions (
   token_hash TEXT PRIMARY KEY,

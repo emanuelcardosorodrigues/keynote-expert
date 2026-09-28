@@ -51,33 +51,33 @@
    ─────────────────────────────────────────────────────────────── */
 
 [data-theme="warm"] {
-  --bg: #FAF9F7;
-  --bg-2: #F2EDE3;
+  --bg: #FBF6ED;
+  --bg-2: #EEE1CF;
   --surface: #FFFFFF;
-  --fg: #1A1A1A;
-  --fg-2: #3D3A36;
-  --fg-3: #6B6560;
-  --fg-4: #A09A8D;
-  --line: #E8E4DB;
-  --line-strong: #D8D2C5;
-  --accent: #A8893A;
-  --accent-display: #C8A84E;
-  --accent-soft: rgba(200, 168, 78, 0.13);
+  --fg: #3C2823;
+  --fg-2: #5C4036;
+  --fg-3: #7B6154;
+  --fg-4: #A58D7D;
+  --line: #E8D9C4;
+  --line-strong: #D9C3A6;
+  --accent: #9A7041;
+  --accent-display: #B58A53;
+  --accent-soft: rgba(181, 138, 83, 0.13);
 }
 
 [data-theme="cold"] {
-  --bg: #151922;
-  --bg-2: #1C212C;
-  --surface: #1C212C;
-  --fg: #FFFFFF;
-  --fg-2: #E4E7ED;
-  --fg-3: #A6ADBB;
-  --fg-4: #6F7686;
+  --bg: #422B25;
+  --bg-2: #51342C;
+  --surface: #51342C;
+  --fg: #FFF9F0;
+  --fg-2: #F3E7D8;
+  --fg-3: #D7BFA8;
+  --fg-4: #A98776;
   --line: rgba(255, 255, 255, 0.12);
   --line-strong: rgba(255, 255, 255, 0.24);
-  --accent: #D4B96A;
-  --accent-display: #D4B96A;
-  --accent-soft: rgba(212, 185, 106, 0.14);
+  --accent: #D2A96C;
+  --accent-display: #E0B97E;
+  --accent-soft: rgba(224, 185, 126, 0.14);
 }
 
 /* ── Palco ───────────────────────────────────────────────────────── */
@@ -215,6 +215,35 @@
   background: var(--accent-display);
   transform-origin: left center;
 }
+
+/* ── ELOS ─────────────────────────────────────────────────────── */
+.elos { position: relative; width: 100%; height: 100%; overflow: hidden; display: flex; flex-direction: column; color: var(--fg); isolation: isolate; }
+.elos__cena { position: absolute; inset: 0; z-index: -3; background-image: url("/pac-web01-slides/assets/elos/editorial-scenes.png"); background-size: 300% 200%; filter: saturate(.78) contrast(.9); }
+.elos__velo { position: absolute; inset: 0; z-index: -2; background: linear-gradient(90deg, color-mix(in srgb, var(--bg) 91%, transparent) 0%, color-mix(in srgb, var(--bg) 72%, transparent) 55%, color-mix(in srgb, var(--bg) 28%, transparent) 100%); }
+.elos__marca { display: flex; align-items: center; gap: 18px; font-family: var(--font-sans); font-size: 18px; letter-spacing: .12em; text-transform: uppercase; color: var(--fg-3); }
+.elos__marca span { font-family: var(--font-serif); color: var(--accent-display); font-size: 32px; font-weight: 700; letter-spacing: .04em; }
+.elos__marca i { width: 42px; height: 1px; background: var(--accent); opacity: .8; }
+.elos__conteudo { flex: 1; display: flex; flex-direction: column; align-items: flex-start; justify-content: center; max-width: 1450px; }
+.elos__kicker { margin: 0 0 28px; color: var(--accent); font: 600 21px/1 var(--font-sans); letter-spacing: .18em; text-transform: uppercase; }
+.elos h1, .elos h2 { margin: 0; font-family: var(--font-serif); font-weight: 700; letter-spacing: -.045em; line-height: 1.02; text-wrap: balance; }
+.elos h1 { max-width: 1240px; font-size: 132px; }
+.elos h1 em { color: var(--accent-display); font-style: italic; }
+.elos__titulo { display: flex; flex-direction: column; align-items: flex-start; gap: 12px; }
+.elos__titulo--longo { font-size: 100px; line-height: 1.07; }
+.elos--com-cena .elos__conteudo { max-width: 1180px; }
+.elos__contador { margin-top: 54px; color: var(--accent-display); font: 700 88px/1 var(--font-serif); letter-spacing: -.04em; }
+.elos__campos { width: 100%; display: grid; grid-template-columns: 1fr 1fr 1.55fr; gap: 18px; margin-top: 56px; }
+.elos__campos span { border-bottom: 2px solid var(--accent); padding: 22px 0; font: 500 30px var(--font-sans); color: var(--fg-2); }
+.elos__seguranca { margin-top: 46px; padding: 18px 24px; border-left: 3px solid #B85C57; background: rgba(184, 92, 87, .1); font: 500 28px/1.35 var(--font-sans); color: var(--fg-2); }
+.elos__seguranca strong { color: #B85C57; font-size: 38px; }
+.elos__cta { margin-top: 54px; border-radius: 999px; padding: 25px 38px 27px; background: var(--accent-display); color: #3C2823; font: 700 28px/1 var(--font-sans); box-shadow: 0 14px 36px rgba(60,40,35,.2); }
+.elos__cta b { padding-left: 28px; font-size: 36px; }
+.elos__prova { display: grid; width: min(1530px, 100%); grid-template-columns: 580px 1fr; align-items: center; gap: 86px; }
+.elos__prova img { display: block; width: 100%; max-height: 705px; object-fit: contain; object-position: center; border-radius: 20px; box-shadow: 0 25px 70px rgba(47,29,24,.28); }
+.elos__prova h2 { font-size: 86px; max-width: 770px; }
+.elos__prova span { display: block; margin-top: 34px; font: 500 22px var(--font-sans); color: var(--fg-3); }
+.elos__rodape { display: flex; justify-content: space-between; align-items: center; font: 500 18px var(--font-sans); letter-spacing: .1em; text-transform: uppercase; color: var(--fg-4); }
+.elos__rodape span:last-child { color: var(--accent); letter-spacing: .14em; }
 
 /* ── Presenter view ───────────────────────────────────────────────
    Navy sólido, nunca creme: às 7h da manhã uma tela clara na cara

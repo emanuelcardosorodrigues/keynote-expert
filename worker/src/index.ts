@@ -6,7 +6,8 @@ export interface Env {
   PRESENTER_AUTH_REQUIRED?: string;
 }
 
-const COOKIE = "lps_session";
+const COOKIE = "elos_presenter_session";
+const DECK_PATH = "/pac-web01-slides";
 const JSON_HEADERS = { "content-type": "application/json; charset=utf-8", "cache-control": "no-store" };
 const json = (body: unknown, status = 200) => new Response(JSON.stringify(body), { status, headers: JSON_HEADERS });
 const id = () => crypto.randomUUID();
@@ -64,7 +65,7 @@ async function api(request: Request, env: Env, url: URL) {
   }
   const userMatch = url.pathname.match(/^\/api\/admin\/users\/([^/]+)$/);
   if (userMatch && request.method === "DELETE") { await env.DB.prepare("UPDATE users SET active=0 WHERE id=?").bind(userMatch[1]).run(); return json({ ok: true }); }
-  if (url.pathname === "/api/admin/slides" && request.method === "GET") return json(await env.DB.prepare("SELECT * FROM slides WHERE deck_slug=? ORDER BY position").bind("lps-slide-aula06").all());
+  if (url.pathname === "/api/admin/slides" && request.method === "GET") return json(await env.DB.prepare("SELECT * FROM slides WHERE deck_slug=? ORDER BY position").bind("pac-web01-slides").all());
   const slideMatch = url.pathname.match(/^\/api\/admin\/slides\/([^/]+)$/);
   if (slideMatch && request.method === "PUT") {
     const b = await request.json() as { cue?: string; tone?: string; next_cue?: string };
@@ -74,11 +75,19 @@ async function api(request: Request, env: Env, url: URL) {
   if (url.pathname === "/api/metrics/time" && request.method === "POST") {
     const b = await request.json() as { slide?: number; seconds?: number };
     if (!Number.isInteger(b.slide) || !Number.isFinite(b.seconds) || (b.seconds || 0) < 0) return json({ error: "invalid_metric" }, 400);
-    await env.DB.prepare("INSERT INTO slide_time (user_id,deck_slug,slide_position,seconds) VALUES (?,?,?,?) ON CONFLICT(user_id,deck_slug,slide_position) DO UPDATE SET seconds=seconds+excluded.seconds, viewed_at=datetime('now')").bind(current.id, "lps-slide-aula06", b.slide, Math.round(b.seconds || 0)).run();
+    await env.DB.prepare("INSERT INTO slide_time (user_id,deck_slug,slide_position,seconds) VALUES (?,?,?,?) ON CONFLICT(user_id,deck_slug,slide_position) DO UPDATE SET seconds=seconds+excluded.seconds, viewed_at=datetime('now')").bind(current.id, "pac-web01-slides", b.slide, Math.round(b.seconds || 0)).run();
     return json({ ok: true });
   }
-  if (url.pathname === "/api/admin/metrics" && request.method === "GET") return json(await env.DB.prepare("SELECT slide_position, SUM(seconds) seconds FROM slide_time WHERE deck_slug=? GROUP BY slide_position ORDER BY slide_position").bind("lps-slide-aula06").all());
+  if (url.pathname === "/api/admin/metrics" && request.method === "GET") return json(await env.DB.prepare("SELECT slide_position, SUM(seconds) seconds FROM slide_time WHERE deck_slug=? GROUP BY slide_position ORDER BY slide_position").bind("pac-web01-slides").all());
   return json({ error: "not_found" }, 404);
 }
 
-export default { async fetch(request: Request, env: Env) { const url = new URL(request.url); if (url.pathname.startsWith("/api/")) return api(request, env, url); return env.ASSETS.fetch(request); } };
+export default {
+  async fetch(request: Request, env: Env) {
+    const url = new URL(request.url);
+    if (url.pathname.startsWith("/api/")) return api(request, env, url);
+    if (url.pathname === DECK_PATH) url.pathname = "/";
+    else if (url.pathname.startsWith(`${DECK_PATH}/`)) url.pathname = url.pathname.slice(DECK_PATH.length) || "/";
+    return env.ASSETS.fetch(new Request(url, request));
+  },
+};

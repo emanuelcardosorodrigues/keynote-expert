@@ -1,0 +1,1645 @@
+ELOS
+
+Roteiro híbrido do Thiago
+
+Webinar de aplicação para o Programa ELOS de Acompanhamento de Casais
+
+Falas críticas literais, guias conversacionais, pausas e ações de palco
+CTA e botão em 49:45 a 50:20
+
+Como usar este roteiro
+
+Este é o roteiro de tela de cola do Thiago. Ele foi escrito para
+acompanhar o descritivo visual V2 e não substitui os slides. As falas
+marcadas como LITERAL precisam ser preservadas porque sustentam crenças,
+segurança, oferta, garantia, escassez e CTA. As falas GUIA podem ser
+ditas no vocabulário natural do Thiago, desde que ele mantenha a tese,
+as condições e a duração do bloco.
+
+  -----------------------------------------------------------------------
+  Marcador                            Como Thiago usa
+  ----------------------------------- -----------------------------------
+  LITERAL                             Ler como está. Só corrigir um
+                                      deslize de fala sem alterar o
+                                      sentido, os critérios ou a
+                                      promessa.
+
+  GUIA                                Falar naturalmente, mantendo a
+                                      intenção, os limites e o tempo
+                                      definido.
+
+  SEM FALA                            Não preencher com improviso. O
+                                      silêncio ou a música têm função no
+                                      ritmo.
+
+  [PAUSA]                             Olhar para a câmera ou para o chat.
+                                      A planilha de chat posterior
+                                      definirá nome, comentário e reação;
+                                      não inventar nomes durante a
+                                      gravação.
+  -----------------------------------------------------------------------
+
+Regras de execução
+
+-   O relógio começa no slide 002, na primeira fala do Thiago. Somente a
+    tela de espera de três minutos fica fora da meta de 50 minutos.
+
+-   O botão de aplicação aparece no slide 100, entre 49:45 e 50:20, e
+    permanece visível até o encerramento.
+
+-   Thiago fala a 130 palavras por minuto. Se um bloco estourar, corte
+    explicação acessória; não adie o botão.
+
+-   Não dizer que a transmissão está ao vivo. Usar apenas “aqui”,
+    “agora”, “nesta aula” e “no chat”.
+
+-   Não prometer retorno do marido, cura, reconciliação, prazo de
+    resultado ou aceitação no programa. Não desqualificar terapia,
+    igreja ou quem decidiu se separar.
+
+-   Aplicação é para o Programa ELOS. A Sessão de Diagnóstico é a etapa
+    de avaliação com especialista da equipe, dura cerca de 45 minutos e
+    não é a oferta principal.
+
+Controle de tempo
+
+  -----------------------------------------------------------------------
+  Faixa                   Objetivo                Ponto de controle
+  ----------------------- ----------------------- -----------------------
+  00:00–08:15             Contrato,               Terminar slide 016 em
+                          reconhecimento e        até 08:15.
+                          promessa                
+
+  08:15–20:30             Problema, tentativas e  Terminar slide 039 em
+                          Veneno Conjugal         até 20:30.
+
+  20:30–41:05             Antídoto, segredos,     Terminar slide 079 em
+                          práticas e ponte        até 41:05.
+
+  41:05–49:45             ELOS, oferta, seleção e Terminar slide 099 em
+                          garantias               até 49:45.
+
+  49:45–64:45             Aplicação, future pace, Botão visível até o
+                          Q&A e saída             final.
+  -----------------------------------------------------------------------
+
+Roteiro slide a slide
+
+As intervenções de chat estão sinalizadas, mas o texto, nome e minuto
+exato serão fechados na planilha de fake ao vivo depois desta versão.
+Isso preserva coerência entre o cronograma real de gravação e a camada
+de comentários.
+
+Pré início e abertura técnica
+
+001 Tela de espera
+
+-03:00 a 00:00 | SEM FALA
+
+  FALA Música instrumental discreta. A tela mostra o contador e recortes
+  autorizados de depoimentos.
+
+  PALCO E AVANÇO Não há voz. Aos 00:00, corte direto para a câmera e o
+  slide 002.
+
+002 Check de áudio
+
+00:00 a 00:40 | LITERAL
+
+  FALA Oi, oi. Eu estou vendo vocês chegando. Antes de qualquer coisa,
+  escreve EU no chat se está me ouvindo bem. Só EU. Eu quero ter certeza
+  de que você está aqui desde o começo, porque a aula de hoje foi feita
+  em sequência.
+
+  PALCO E AVANÇO Olhar para a lente na primeira frase. Pausa de 4
+  segundos. A reação e os nomes a ecoar entram depois na planilha de
+  chat. Avançar sem prolongar.
+
+003 Censo da sala
+
+00:40 a 01:35 | LITERAL
+
+  FALA Agora me conta três coisas: seu nome, de onde você está me
+  assistindo e há quanto tempo você é casada. Eu pergunto porque a
+  história de quem tem cinco anos de casamento é diferente da história
+  de quem tem vinte e cinco. E eu não quero falar com uma plateia. Quero
+  falar com você.
+
+  PALCO E AVANÇO Apontar os três campos quando entram. Pausa de 6
+  segundos. Ler apenas os nomes definidos no arquivo de chat.
+
+004 Permissão para começar
+
+01:35 a 02:05 | LITERAL
+
+  FALA Tem mulher aqui vivendo fases muito diferentes do casamento, mas
+  eu desconfio que muitas chegaram por uma dor parecida. Então, se você
+  está pronta para começar, escreve PODE.
+
+  PALCO E AVANÇO Tom próximo. Esperar 4 segundos; fazer o corte de
+  energia e avançar.
+
+Abertura e contrato da audiência
+
+005 A aula tem dona
+
+02:05 a 02:35 | LITERAL
+
+  FALA Se você é casada, está cansada de lutar sozinha e ainda não
+  desistiu do seu casamento, fica comigo até o fim. Esta aula foi feita
+  para você.
+
+  PALCO E AVANÇO Olhar firme, sem sorriso de venda. Não mencionar
+  aplicação, sessão ou investimento.
+
+006 A frase que paralisa
+
+02:35 a 03:05 | LITERAL
+
+  FALA Existe uma frase que parece muito sensata, mas que deixa muita
+  mulher parada no meio da crise: casamento só se salva se os dois
+  quiserem. Você já ouviu isso de uma amiga, da família, de um vídeo ou
+  da sua própria cabeça.
+
+  PALCO E AVANÇO Pausa de 2 segundos depois da frase em tela. Ritmo
+  baixo.
+
+007 A pergunta honesta
+
+03:05 a 03:35 | LITERAL
+
+  FALA Mas me responde com sinceridade: se os dois quisessem do mesmo
+  jeito, vocês estariam vivendo esta crise? Esperar os dois quererem
+  para começar é deixar o problema sem começo.
+
+  PALCO E AVANÇO Fazer a pergunta olhando para a lente. Silêncio de 2
+  segundos. Não atacar o marido.
+
+008 Reconhecimento
+
+03:35 a 04:05 | GUIA
+
+  FALA Talvez ele esteja frio. Talvez fuja de conversa. Talvez vocês
+  estejam na mesma casa, mas já não pareçam um casal. E mesmo cansada,
+  existe uma parte sua que ainda não desistiu. É com essa parte que eu
+  quero falar hoje.
+
+  PALCO E AVANÇO Uma frase por linha que entra. Voz acolhedora, sem
+  lista acelerada.
+
+009 O que esta aula não promete
+
+04:05 a 04:35 | LITERAL
+
+  FALA Eu não vou te ensinar uma frase para controlar o seu marido. Isso
+  não existe. O que eu vou te mostrar é o lado que está nas suas mãos e
+  como uma mudança certa nesse lado muda o clima da casa.
+
+  PALCO E AVANÇO Dar ênfase em controlar. A mão fica aberta, não
+  apontada.
+
+010 Proteção vem antes
+
+04:35 a 05:05 | LITERAL
+
+  FALA E eu preciso ser muito claro antes de seguir. Se existe agressão,
+  ameaça ou medo dentro da sua casa, isso deixa de ser assunto de salvar
+  casamento e passa a ser assunto de proteção. Procure ajuda de alguém
+  de confiança e ligue 180. O que eu vou falar aqui é para casamento
+  ferido, cansado e frio. Não é para casamento perigoso.
+
+  PALCO E AVANÇO Tom baixo, sem trilha crescente. Pausa curta e avanço
+  imediato.
+
+011 Teste 1 Onde a casa está hoje
+
+05:05 a 05:50 | LITERAL
+
+  FALA Primeiro teste. Em qual destas fases sua casa está? Um: briga.
+  Dois: silêncio. Três: tanto faz. Na briga, qualquer assunto vira
+  explosão. No silêncio, vocês só falam de conta e filho. No tanto faz,
+  você já cansou até de discutir. Escreve 1, 2 ou 3.
+
+  PALCO E AVANÇO Apontar uma opção por vez. Pausa máxima de 6 segundos.
+  Ler respostas apenas da planilha.
+
+012 A causa não muda de nome
+
+05:50 a 06:20 | GUIA
+
+  FALA Para quem escreveu um, parece que o problema é briga. Para quem
+  escreveu três, parece que o problema é falta de tudo. Mas muitas vezes
+  são fases diferentes da mesma dinâmica. E se você não enxerga a
+  dinâmica, tenta remediar um sintoma e o ciclo volta.
+
+  PALCO E AVANÇO Tom de revelação calma. Deixar os cartões convergirem.
+
+013 Promessa da aula
+
+06:20 a 06:55 | LITERAL
+
+  FALA Hoje eu vou te mostrar quatro segredos que ajudam você a
+  reconstruir o vínculo sem ficar esperando ele mudar primeiro. Mesmo
+  quando existe frieza, distância ou conversa de separação. O objetivo
+  não é prometer o que ele vai fazer. É te dar direção para mudar o que
+  hoje intoxica a relação.
+
+  PALCO E AVANÇO Ler título com pausas. Não aumentar a promessa além do
+  slide.
+
+014 Primeira semente do ELOS
+
+06:55 a 07:20 | LITERAL
+
+  FALA Tudo o que eu vou te ensinar hoje, você pode começar a aplicar. E
+  isso é importante. Mas chegar até aqui não significa que você precise
+  continuar tentando descobrir tudo sozinha. Existe um processo de
+  acompanhamento de noventa dias para alguns casos. Hoje eu vou te
+  mostrar primeiro o que está acontecendo dentro da sua casa.
+
+  PALCO E AVANÇO Tom leve, sem oferta. A imagem da direção entra somente
+  depois de dizer começar.
+
+015 A regra da aula
+
+07:20 a 07:45 | LITERAL
+
+  FALA Guarda esta frase porque ela vai voltar no final: não precisa que
+  os dois queiram para começar. Precisa que um comece, do jeito certo,
+  com direção.
+
+  PALCO E AVANÇO Pausa de 2 segundos. Dizer uma única vez, sem repetir.
+
+016 Antes dos segredos
+
+07:45 a 08:15 | GUIA
+
+  FALA Pega o caderno. Você vai sair daqui com três práticas para esta
+  semana. Mas antes das práticas, nós precisamos entender por que tanta
+  tentativa bem-intencionada acaba piorando a distância. Porque, se a
+  causa estiver errada, qualquer conselho vira mais uma tentativa
+  cansativa.
+
+  PALCO E AVANÇO Convidar a anotar. Avançar em corte para a cena da
+  madrugada.
+
+Problema e crenças
+
+017 Duas da manhã
+
+08:15 a 08:45 | LITERAL
+
+  FALA Duas da manhã. A casa está em silêncio. A luz do celular dele
+  está ali do outro lado do quarto. E você está olhando para o teto,
+  repassando a conversa que não aconteceu, a frase que não devia ter
+  dito e a frase que não teve coragem de dizer. A casa está quieta. A
+  sua cabeça não.
+
+  PALCO E AVANÇO Tom cinematográfico e baixo. Não dizer imagine. Pausa
+  de 2 segundos no final.
+
+018 A casa por fora
+
+08:45 a 09:15 | GUIA
+
+  FALA No dia seguinte, por fora, parece tudo normal. Tem foto, almoço
+  de família, rotina, escola dos filhos. Por dentro, são duas pessoas
+  tentando sobreviver ao mesmo teto. E a dor fica ainda maior porque
+  quase ninguém vê.
+
+  PALCO E AVANÇO Virar levemente para o díptico quando ele entrar. Sem
+  dramatização excessiva.
+
+019 Os sinais
+
+09:15 a 09:50 | LITERAL
+
+  FALA Quando você tenta conversar, ele foge ou chama de cobrança. A
+  casa vira conta e filho. Você se arruma, muda o cabelo, tenta chamar a
+  atenção e sente que ele nem te vê. Se duas ou mais destas frases
+  descrevem a sua casa, escreve SOU EU.
+
+  PALCO E AVANÇO Uma pausa curta entre cada cena. Depois do comando,
+  aguardar 5 segundos.
+
+020 O peso que ninguém vê
+
+09:50 a 10:20 | LITERAL
+
+  FALA A dor não é só a falta dele. É a sensação de que você está
+  carregando o casamento nas costas sozinha. Casa, filhos, trabalho,
+  preocupação e, por cima de tudo, a responsabilidade de fazer a relação
+  não acabar.
+
+  PALCO E AVANÇO Tom de validação. Não dizer que ela é responsável por
+  salvar tudo.
+
+021 O medo real
+
+10:20 a 10:55 | GUIA
+
+  FALA No fundo, você não sente que está perdendo apenas um homem. Você
+  teme perder a família que construiu, a história de anos, o lugar onde
+  seus filhos deveriam encontrar paz. E talvez até se pergunte se
+  decepcionou a Deus.
+
+  PALCO E AVANÇO Ritmo lento. Não induzir culpa religiosa.
+
+022 Teste 2 A escada das tentativas
+
+10:55 a 11:45 | LITERAL
+
+  FALA Agora olha esta escada e conta quantos degraus você já subiu:
+  conversar, mudar você, orar, pedir conselho, dar gelo, ameaçar,
+  comprar paz. Não tem degrau de mulher fraca aqui. Tem degrau de uma
+  mulher tentando fazer dar certo com as ferramentas que tinha. Quantos
+  você já tentou?
+
+  PALCO E AVANÇO Construir a escada junto à fala. Pausa de 6 segundos
+  para o chat. Não pedir relatos longos.
+
+023 O padrão escondido
+
+11:45 a 12:15 | LITERAL
+
+  FALA Quase todos esses degraus tinham uma coisa em comum: eles
+  precisavam de uma reação dele para funcionar. Você falava e esperava
+  ele responder. Mudava e esperava ele perceber. Dava gelo e esperava
+  ele sentir falta. Quando ele não reagia, você colocava mais força.
+
+  PALCO E AVANÇO Usar as setas em tela como apoio. Firme, não
+  acusatório.
+
+024 A absolvição
+
+12:15 a 12:45 | LITERAL
+
+  FALA Então ouve isso de mim: você não falhou por amar demais. Você
+  tentou sem um mapa. O problema não foi a sua vontade de lutar. Foi
+  ninguém ter te mostrado o que acontece no ciclo e qual é a ordem que
+  interrompe esse ciclo.
+
+  PALCO E AVANÇO Pausa após primeira frase. Não acrescentar
+  justificativas.
+
+025 As quatro mensagens que ela recebeu
+
+12:45 a 13:10 | GUIA
+
+  FALA E no meio desse cansaço aparecem quatro mensagens: acabou o amor,
+  separar é a solução, só funciona se os dois quiserem, é só orar e
+  esperar. Vamos olhar para cada uma sem simplificar a sua dor.
+
+  PALCO E AVANÇO Apontar cada cartão, uma batida curta por frase.
+
+026 Crença 1
+
+13:10 a 13:40 | LITERAL
+
+  FALA Quando o jeito muda, é muito fácil concluir que o amor acabou. A
+  mensagem diminui, o cuidado muda, o olhar fica raro. Mas frieza não é
+  um diagnóstico completo. Antes de decretar um fim, é preciso entender
+  o que foi se acumulando embaixo daquela frieza.
+
+  PALCO E AVANÇO Não falar que amor nunca acaba. Tom didático.
+
+027 Prova de vínculo reconstruído
+
+13:40 a 14:10 | LITERAL
+
+  FALA Olha este relato: ela descreve um casamento frio, distante, sem
+  diálogo e quase divórcio. Depois conta que aprendeu como e quando
+  falar e agir, e que os dois celebraram vinte e nove anos de casamento
+  em uma viagem só deles. Isso não prova que toda história terá o mesmo
+  final. Prova que aparência de fim não deve ser a única leitura.
+
+  PALCO E AVANÇO Ler apenas os trechos destacados do print. Pausa para a
+  prova respirar.
+
+028 Crença 2
+
+14:10 a 14:40 | GUIA
+
+  FALA Separar pode interromper uma dor e, em alguns casos, é necessário
+  para proteger. Mas sair de uma relação não resolve automaticamente os
+  padrões que cada pessoa carrega. Controle, fuga, silêncio e orgulho
+  podem atravessar a porta junto.
+
+  PALCO E AVANÇO Sem condenar separação. A palavra proteger deve ficar
+  clara.
+
+029 Prova sem romantizar a traição
+
+14:40 a 15:20 | LITERAL
+
+  FALA E para você que viveu traição, eu preciso dizer algo com
+  respeito: entender uma dinâmica não apaga o que foi feito. Traição tem
+  responsabilidade, limite e dor legítima. Este casal viveu uma traição
+  com filho fora do casamento. Eles decidiram trabalhar a relação e hoje
+  ela relata diálogo e carinho. É uma possibilidade real de uma
+  história. Não é uma ordem para você engolir o que te feriu.
+
+  PALCO E AVANÇO Abrir com a validação. Ler só depois o resultado do
+  depoimento.
+
+030 Crença 3
+
+15:20 a 15:45 | LITERAL
+
+  FALA A frase só funciona se os dois quiserem parece bonita, mas deixa
+  uma mulher esperando. Se ele quisesse estar inteiro nisso hoje, talvez
+  vocês nem estivessem nesta crise. Você não controla a disposição dele.
+  Mas pode começar a mudar o padrão que está disponível do seu lado.
+
+  PALCO E AVANÇO Pausa após esperando. Voltar à Big Domino sem
+  triunfalismo.
+
+031 Prova de começo individual
+
+15:45 a 16:20 | LITERAL
+
+  FALA Esta família ficou oito meses separada. Ela conta que o
+  acompanhamento começou com ela: ela se acalmou, voltou a acreditar que
+  havia caminho e depois ele entrou no processo. Primeiro com ela.
+  Depois com ele. É por isso que eu digo: um começa.
+
+  PALCO E AVANÇO Ler os dois trechos do print. Pausa curta antes de
+  primeiro com ela.
+
+032 Crença 4
+
+16:20 a 16:50 | LITERAL
+
+  FALA E oração não foi o erro. Eu creio em oração. O problema é esperar
+  que ela substitua a direção do dia seguinte. Você pode orar à noite e,
+  na manhã seguinte, repetir uma reação que alimenta a mesma ferida. Fé
+  e atitude certa não competem. Elas caminham juntas.
+
+  PALCO E AVANÇO Tom de fé madura. Sem versículo e sem atacar igreja.
+
+033 Teste 3 A mesa que ensinou vocês
+
+16:50 a 17:25 | LITERAL
+
+  FALA Fecha os olhos por um instante e volta à mesa da casa onde você
+  cresceu. O que aparecia mais: grito, silêncio, traição, controle ou
+  fuga? Agora pensa no que você sabe da história dele. Anota uma
+  palavra. Não precisa expor sua vida. Se quiser, escreve no chat apenas
+  a palavra.
+
+  PALCO E AVANÇO Dar 8 segundos reais para reflexão. Não exigir
+  participação.
+
+034 O que aparece quando olhamos a origem
+
+17:25 a 17:55 | GUIA
+
+  FALA Muitas reações que machucam hoje não começaram em vocês dois.
+  Foram aprendidas antes, repetidas por costume, levadas para dentro do
+  casamento sem que ninguém ensinasse outra forma. Isso não é destino.
+  Mas explica por que uma dica solta muitas vezes não alcança a raiz.
+
+  PALCO E AVANÇO Usar o diagrama como apoio. Tom de descoberta, não de
+  diagnóstico clínico.
+
+035 O nome do inimigo
+
+17:55 a 18:25 | LITERAL
+
+  FALA Eu chamo isso de Veneno Conjugal. São padrões, reações e
+  conselhos que entram gota por gota na relação. Não fazem barulho. Às
+  vezes parecem cuidado. Às vezes parecem amor. Mas vão deixando a água
+  do casamento amarga.
+
+  PALCO E AVANÇO Sincronizar as gotas com as três frases. Dizer Veneno
+  Conjugal com pausa antes e depois.
+
+036 Como o veneno se disfarça
+
+18:25 a 18:55 | LITERAL
+
+  FALA Cobrar pode parecer cuidar. Implorar pode parecer amar. Dar gelo
+  pode parecer se valorizar. E eu não estou julgando a intenção de
+  nenhuma mulher aqui. Estou mostrando o efeito: pressão, dependência e
+  punição vão alimentando o mesmo ciclo.
+
+  PALCO E AVANÇO Ritmo cadenciado. Não personalizar culpa.
+
+037 O que o veneno não faz
+
+18:55 a 19:25 | LITERAL
+
+  FALA O Veneno Conjugal explica um ciclo. Não desculpa traição. Não
+  desculpa crueldade. Não desculpa violência. Responsabilidade continua
+  sendo responsabilidade. O que nós estamos fazendo é identificar o que
+  precisa parar de ser repetido.
+
+  PALCO E AVANÇO Tom sério. Sem música emocional.
+
+038 O que os filhos aprendem
+
+19:25 a 20:00 | GUIA
+
+  FALA A mesa de hoje também está ensinando alguém a amar. Não para
+  colocar culpa em você. Para lembrar que mudar a dinâmica da casa é uma
+  herança concreta para quem vê vocês dois todos os dias.
+
+  PALCO E AVANÇO Olhar para a imagem, depois voltar para lente.
+
+039 A pergunta que muda a direção
+
+20:00 a 20:30 | LITERAL
+
+  FALA Se o veneno entrou pelos dois, gota por gota, ele pode começar a
+  sair por um? Pode. Mas não com mais desespero, mais cobrança ou mais
+  jogo. Com um começo diferente e com direção.
+
+  PALCO E AVANÇO Pausa antes de pode. A água clareia no momento da
+  resposta.
+
+Antídoto e quatro segredos
+
+040 A Big Domino
+
+20:30 a 21:00 | LITERAL
+
+  FALA Não precisa que os dois queiram para começar. Precisa que um
+  comece, do jeito certo, com direção. Quando uma pessoa deixa de
+  alimentar o ciclo, a dinâmica inteira encontra um novo ponto de
+  resposta. Não é controle. É influência pelo padrão que você coloca na
+  relação.
+
+  PALCO E AVANÇO Pedir UM COMEÇA no chat. Pausa de 5 segundos e eco
+  conforme planilha.
+
+041 O Antídoto Unilateral
+
+21:00 a 21:25 | LITERAL
+
+  FALA Eu chamo esse começo de Antídoto Unilateral. Não é fazer mais
+  pelo casamento. É parar de colocar veneno no ciclo e começar a
+  introduzir outro padrão pelo lado que está disponível: o seu.
+
+  PALCO E AVANÇO Falar unilateral com calma e imediatamente esclarecer
+  que não é culpa solitária.
+
+042 O que muda primeiro
+
+21:25 a 21:55 | GUIA
+
+  FALA Antes de tentar recuperar a resposta dele, você recupera a sua
+  presença. Você deixa de reagir pelo medo, pelo impulso e pelo cansaço.
+  É desse lugar que uma conversa volta a ter chance.
+
+  PALCO E AVANÇO Tom de acolhimento. Não usar linguagem de poder sobre o
+  outro.
+
+043 Segredo 1
+
+21:55 a 22:25 | LITERAL
+
+  FALA Primeiro segredo: se existe história, existe matéria para cuidar
+  do vínculo. Não significa que toda história vai se reconstruir.
+  Significa que você não precisa tratar uma relação ferida como se nada
+  tivesse existido entre vocês.
+
+  PALCO E AVANÇO Capa por 3 segundos antes da fala. Olhar direto.
+
+044 Vínculo de Alma
+
+22:25 a 22:55 | GUIA
+
+  FALA Eu chamo esse lugar de Vínculo de Alma. É a história, a aliança,
+  as lembranças, o cuidado que um dia existiu e o que ainda pode ser
+  reconhecido. Ele pode estar ferido, abafado e distante. Mas, quando há
+  sinais reais, merece cuidado antes de uma sentença apressada.
+
+  PALCO E AVANÇO Evitar afirmação universal. Falar como conceito do
+  método, sem ciência em tela.
+
+045 Teste do Vínculo
+
+22:55 a 23:25 | LITERAL
+
+  FALA No caderno, responde: existe uma memória boa entre vocês? Ainda
+  há algum contato prático, algum cuidado, alguma reação, alguma dor
+  quando algo acontece? Não conte pontos para provar que ele vai voltar.
+  Use isso para enxergar com honestidade onde ainda existe matéria para
+  uma conversa diferente.
+
+  PALCO E AVANÇO Uma pergunta por entrada. Não pedir placar no chat.
+
+046 Prova O vínculo não mora no endereço
+
+23:25 a 23:55 | GUIA
+
+  FALA A história que você viu há pouco deixa isso claro: eles ficaram
+  oito meses separados. A distância física era real. O vínculo e a
+  possibilidade de recomeço também foram trabalhados. Endereço não
+  encerra toda história, mas cada caso precisa ser olhado de perto.
+
+  PALCO E AVANÇO Usar a linha do tempo. Não prometer retorno de quem
+  saiu.
+
+047 Segredo 2
+
+23:55 a 24:25 | LITERAL
+
+  FALA Segundo segredo: o silêncio precisa ser lido antes de ser
+  respondido. Porque, quando você interpreta todo silêncio como
+  desprezo, pode responder aumentando uma pressão que já está afastando
+  os dois.
+
+  PALCO E AVANÇO Capa curta e ritmo firme.
+
+048 O ciclo
+
+24:25 a 24:55 | GUIA
+
+  FALA Em muitas casas, um lado pressiona porque quer conexão. O outro
+  se fecha porque não sabe lidar com a tensão. O fechamento aumenta a
+  ansiedade. A ansiedade aumenta a pressão. E ninguém percebe que está
+  preso no mesmo ciclo.
+
+  PALCO E AVANÇO Apontar as setas do diagrama. Não dizer que só mulheres
+  cobram ou só homens fogem.
+
+049 A primeira prática
+
+24:55 a 25:25 | LITERAL
+
+  FALA A primeira prática desta semana é o Silêncio Estratégico. Por
+  vinte e quatro horas, você não alimenta a escalada. Você não dá gelo.
+  Você não desaparece. Você continua presente, respeitosa, mas não
+  responde no auge da raiva. Você escolhe a hora e o tom.
+
+  PALCO E AVANÇO Dizer 24 horas com clareza. Não deixar parecer
+  submissão.
+
+050 O que essa prática não é
+
+25:25 a 25:50 | LITERAL
+
+  FALA Silêncio Estratégico não é engolir tudo. Não é aceitar
+  desrespeito. Não é fazer castigo emocional. Gelo pune. Silêncio
+  Estratégico regula a casa para que uma conversa tenha chance de
+  existir depois.
+
+  PALCO E AVANÇO Contrastar os dois lados do slide. Tom didático.
+
+051 A segunda prática
+
+25:50 a 26:20 | GUIA
+
+  FALA A segunda prática é parar de fazer do humor dele o termômetro do
+  seu dia inteiro. O marido não pode ser o sol do seu planeta. Você
+  precisa voltar a ter fé, corpo, amigas, trabalho, prazer e identidade
+  para além da crise.
+
+  PALCO E AVANÇO Tom firme, não acusatório. A imagem organiza a ideia.
+
+052 Interação Voltar a ser você
+
+26:20 a 26:50 | LITERAL
+
+  FALA Escreve uma coisa que você gostava de fazer antes de virar apenas
+  esposa e mãe. Uma coisa simples. Caminhar, cantar, pintar, estudar,
+  conversar com uma amiga. Nesta semana, você volta para essa coisa por
+  você. Não para provocar ciúme. Não para provar nada. Para voltar a se
+  encontrar.
+
+  PALCO E AVANÇO Pausa de 7 segundos. Ler uma resposta definida no chat
+  futuro.
+
+053 Prova A mudança começou nela
+
+26:50 a 27:20 | LITERAL
+
+  FALA Olha como ela mesma descreve: a real mudança teria que acontecer
+  dentro de mim primeiro. Ela fala de postura, reações, condutas e de se
+  fortalecer. Só depois ela conta que o marido voltou para casa. O
+  começo não foi controlar ele. Foi reorganizar o lado dela.
+
+  PALCO E AVANÇO Ler o trecho do print antes do resultado. Não
+  apresentar volta como consequência garantida.
+
+054 Segredo 3
+
+27:20 a 27:50 | LITERAL
+
+  FALA Terceiro segredo: toda casa tem necessidades que deixaram de ser
+  traduzidas. E quando ninguém consegue nomear o que está faltando, cada
+  pessoa tenta pedir do jeito que sabe e o outro ouve do jeito que dói.
+
+  PALCO E AVANÇO Capa de 3 segundos. Ritmo de explicação.
+
+055 O que ela precisa sentir
+
+27:50 a 28:20 | GUIA
+
+  FALA Segurança, amor, parceria e amparo. São palavras diferentes, mas
+  apontam para a mesma necessidade: não se sentir sozinha dentro do
+  casamento. Guarda qual destas faltas pesa mais hoje para você.
+
+  PALCO E AVANÇO Uma palavra por clique. Pausa curta após cada uma.
+
+056 O que ele talvez tente comunicar
+
+28:20 a 28:50 | GUIA
+
+  FALA Muitos homens expressam necessidade por paz, respeito, cuidado e
+  intimidade. Não como regras rígidas para todo homem, mas como
+  traduções que aparecem muito no atendimento. O trabalho é descobrir
+  como isso existe no caso de vocês, sem apagar o que você também
+  precisa.
+
+  PALCO E AVANÇO Falar talvez e muitos. Evitar dogma de gênero.
+
+057 A confusão que vira distância
+
+28:50 a 29:20 | LITERAL
+
+  FALA O que para você é cobrança por conexão pode chegar nele como
+  acusação. A intenção pode ser boa e o impacto ainda machucar. E isso
+  também vale para ele. Quando vocês aprendem a separar intenção de
+  impacto, deixam de discutir apenas a frase e começam a cuidar do
+  efeito.
+
+  PALCO E AVANÇO Apontar intenção e impacto. Tom de mediação.
+
+058 Interação O que mais falta hoje
+
+29:20 a 29:55 | LITERAL
+
+  FALA Agora responde no chat só com um número: um, paz; dois, respeito;
+  três, cuidado; quatro, intimidade. Ninguém precisa explicar a própria
+  vida aqui. Eu só quero que você reconheça qual falta está gritando
+  mais alto na sua casa hoje.
+
+  PALCO E AVANÇO Pausa de 5 segundos. Ecoar só padrões, conforme a
+  planilha.
+
+059 Prova Bom homem e bom marido
+
+29:55 a 30:30 | GUIA
+
+  FALA Existe uma diferença entre ser um homem com boas qualidades e
+  saber construir presença dentro do casamento. Neste caso, eles
+  começaram a perceber o pequeno, traduzir cuidado e sair da competição.
+  E a frase que fica é esta: eles aprenderam a construir um bom
+  casamento.
+
+  PALCO E AVANÇO Usar somente o caso/prova que tiver autorização. Não
+  criar detalhes fora da prova escolhida.
+
+060 Segredo 4
+
+30:30 a 31:00 | LITERAL
+
+  FALA Quarto segredo: a mesma verdade pode chegar como ataque ou como
+  pedido de aproximação. A dor que você sente não precisa ser negada
+  para que a forma de dizer seja diferente.
+
+  PALCO E AVANÇO Capa breve. Dizer verdade e forma com ênfase.
+
+061 Jeito que fecha a porta
+
+31:00 a 31:30 | LITERAL
+
+  FALA Quando você diz: você nunca liga para nós, eu faço tudo sozinha,
+  existe uma dor verdadeira aí. Mas quem escuta pode ouvir apenas
+  acusação. E, quando a conversa começa como ataque, a defesa entra
+  antes da escuta.
+
+  PALCO E AVANÇO Ler a frase sem teatralizar grito. Não culpar a mulher.
+
+062 Jeito que abre conversa
+
+31:30 a 32:00 | LITERAL
+
+  FALA Agora percebe a diferença: quando você chega tarde sem avisar, eu
+  me sinto sozinha. Eu quero encontrar uma forma melhor para nós. Aqui
+  existe um fato, um sentimento e um pedido. A conversa deixa de ser uma
+  sentença e vira uma ponte.
+
+  PALCO E AVANÇO Falar pausadamente, sinalizando fato, sentimento,
+  pedido.
+
+063 A terceira prática
+
+32:00 a 32:35 | LITERAL
+
+  FALA Então anota esta estrutura: fato, sentimento, pedido. Descreva o
+  que aconteceu sem atacar. Diga o que isso produziu em você. E faça um
+  pedido possível para os dois. Isso não resolve uma história inteira em
+  uma frase. Mas muda o ponto de partida da conversa.
+
+  PALCO E AVANÇO Apontar os três cartões. Não prometer resultado
+  imediato.
+
+064 Teste Reescreva uma frase
+
+32:35 a 33:10 | GUIA
+
+  FALA Escolhe uma reclamação que você costuma repetir e reescreve agora
+  usando os três passos. Não pega o assunto mais explosivo da casa para
+  fazer a primeira tentativa. Escolhe algo real, mas possível.
+
+  PALCO E AVANÇO Dar 20 segundos de silêncio. Thiago olha para
+  baixo/caderno, não para câmera.
+
+065 Prova Ela voltou a se sentir vista
+
+33:10 a 33:40 | LITERAL
+
+  FALA Antes, ela dizia que estava cansada de se sentir invisível.
+  Depois, escreveu: ele está me ouvindo e eu me sinto vista de novo. Não
+  foi porque alguém ensinou uma frase mágica. Foi porque eles começaram
+  a se entender e a conversar de outro jeito.
+
+  PALCO E AVANÇO Ler exatamente as duas frases do depoimento. Pausa para
+  o print.
+
+066 Prova Ele começou contrariado
+
+33:40 a 34:10 | LITERAL
+
+  FALA E este marido começou contrariado. Ele mesmo diz que entrou por
+  pressão e não estava aberto. Com o processo, começou a olhar para as
+  próprias atitudes, erros e escolhas. Hoje escreve que está disposto a
+  caminhar em direção à mudança. Resistência no começo não é uma
+  sentença sobre o fim.
+
+  PALCO E AVANÇO Ler Antes e Agora no print. Sem prometer que todo
+  resistente muda.
+
+067 As quatro peças juntas
+
+34:10 a 34:40 | GUIA
+
+  FALA Vínculo. Regulação. Necessidades. Comunicação. São quatro peças
+  importantes. Mas, sem ordem, elas viram mais conteúdo para você tentar
+  aplicar sozinha e se frustrar na hora em que a casa aperta.
+
+  PALCO E AVANÇO Montagem do mosaico. Tom de síntese.
+
+068 Por que as dicas soltas falham
+
+34:40 a 35:10 | LITERAL
+
+  FALA Uma conversa certa no momento errado pode virar outra briga. Uma
+  frase boa por cima de uma ferida aberta pode parecer cobrança. E uma
+  intenção bonita sem correção de rota pode colocar vocês de volta no
+  mesmo lugar. Por isso, dica solta não substitui acompanhamento.
+
+  PALCO E AVANÇO Firmeza progressiva. Não usar tom de ameaça.
+
+069 O caminho tem ordem
+
+35:10 a 35:40 | LITERAL
+
+  FALA O caminho que eu uso tem três etapas: Detox Emocional, Inversão
+  de Força e Blindagem do Casal. Primeiro você para de alimentar o que
+  intoxica. Depois volta para o seu centro. E só então constrói acordos
+  e uma nova rotina para não repetir tudo na próxima crise.
+
+  PALCO E AVANÇO Cada etapa entra na palavra correspondente. Preparar o
+  método ELOS.
+
+070 1 Detox Emocional
+
+35:40 a 36:10 | GUIA
+
+  FALA Detox Emocional é tratar reações, feridas e padrões que colocam
+  mais veneno na casa. É o lugar do Silêncio Estratégico, do olhar para
+  a origem e da estabilidade que você começa a recuperar.
+
+  PALCO E AVANÇO A água deve clarear parcialmente. Não dizer cura
+  completa.
+
+071 2 Inversão de Força
+
+36:10 a 36:40 | LITERAL
+
+  FALA Inversão de Força é sair da perseguição e voltar a ocupar o seu
+  centro. Não é sumir para ele sentir falta. Não é fazer jogo. É parar
+  de agir pelo medo, recuperar presença e deixar de entregar a sua paz
+  na mão do humor dele.
+
+  PALCO E AVANÇO Dar ênfase em não é jogo. Tom firme.
+
+072 3 Blindagem do Casal
+
+36:40 a 37:10 | GUIA
+
+  FALA Blindagem do Casal é criar acordos, linguagem, intimidade e
+  rotina para que a mesma dinâmica não volte a governar a casa. Não é
+  viver sem diferença. É saber atravessar diferença sem transformar cada
+  crise numa ameaça ao casamento.
+
+  PALCO E AVANÇO Tom de futuro concreto. A casa iluminada apoia.
+
+073 Por que a ordem importa
+
+37:10 a 37:40 | LITERAL
+
+  FALA Ferramenta sem alicerce pode virar nova cobrança. Primeiro você
+  trata o que está inflamado. Depois muda a posição de força. Então
+  aprende a usar as ferramentas dentro de uma casa mais segura. Essa é a
+  diferença entre tentar uma dica e construir uma base.
+
+  PALCO E AVANÇO Pausa de 1 segundo entre primeiro, depois, então.
+
+074 O que você já recebeu hoje
+
+37:40 a 38:15 | LITERAL
+
+  FALA Hoje você recebeu três começos: pausar a escalada, voltar para si
+  e reescrever uma conversa. Faz isso nesta semana. Não espera o momento
+  perfeito. Só não confunde estes primeiros passos com todo o caminho
+  que sua casa talvez esteja pedindo.
+
+  PALCO E AVANÇO Recapitular em uma frase por cartão. Não abrir outro
+  conteúdo.
+
+075 Onde ela trava sozinha
+
+38:15 a 38:50 | LITERAL
+
+  FALA A dificuldade não é entender isso aqui comigo agora. A
+  dificuldade é a hora em que ele responde torto, a antiga ferida abre e
+  você não sabe se fala, se espera, se se posiciona ou se se acalma. É
+  nessa hora que conselho solto costuma falhar.
+
+  PALCO E AVANÇO Três cenas, uma por frase. Tom de reconhecimento.
+
+076 Não é incapacidade
+
+38:50 a 39:20 | LITERAL
+
+  FALA Você pode começar sozinha. Mas não precisa continuar lutando
+  sozinha até o fim. Acompanhamento não existe porque você é incapaz.
+  Existe porque direção, correção e personalização encurtam um caminho
+  que você já está cansada de percorrer no escuro.
+
+  PALCO E AVANÇO Frase central com pausa. Não vender ainda.
+
+077 Prova O processo constrói fundação
+
+39:20 a 40:00 | LITERAL
+
+  FALA Esta aluna não disse que tudo ficou perfeito. Ela disse: agora
+  temos a fundação para um casamento de verdade. Não tem preço essa paz.
+  E também disse que o trabalho continua. É essa maturidade que eu quero
+  que você entenda: reconstrução não é um evento. É uma nova base.
+
+  PALCO E AVANÇO Ler o print em duas partes: fundação, depois trabalho
+  continua.
+
+078 A diferença entre alívio e reconstrução
+
+40:00 a 40:35 | LITERAL
+
+  FALA Alívio é uma semana sem briga. Reconstrução é a casa aprender a
+  atravessar a próxima conversa difícil sem voltar para o mesmo abismo.
+  Você não está procurando apenas um jantar bom. Você quer uma relação
+  que não desabe toda vez que aparece um problema.
+
+  PALCO E AVANÇO Tom aspiracional e concreto.
+
+079 A ponte para o ELOS
+
+40:35 a 41:05 | LITERAL
+
+  FALA É por isso que algumas casas precisam de mais do que uma aula.
+  Precisam de um caminho acompanhado. Um lugar onde alguém olha a fase
+  que você está vivendo, corrige a rota e não deixa você voltar para o
+  mesmo ciclo toda vez que a semana aperta.
+
+  PALCO E AVANÇO Pausa breve. Perguntar: você quer que eu te mostre como
+  esse acompanhamento funciona? Avançar sem esperar chat.
+
+Programa ELOS e aplicação
+
+080 O que é o ELOS
+
+41:05 a 41:30 | LITERAL
+
+  FALA O nome desse processo é Programa ELOS de Acompanhamento de
+  Casais. Ele não é uma aula gravada e não é uma sessão gratuita. É um
+  acompanhamento para quem decidiu construir um novo relacionamento com
+  direção, prática e correção de rota.
+
+  PALCO E AVANÇO Capa premium. Dizer o nome oficial uma vez, com calma.
+
+081 A promessa do processo
+
+41:30 a 42:00 | GUIA
+
+  FALA O ELOS existe para tirar vocês do ciclo, reconstruir presença e
+  ensinar uma nova forma de atravessar a vida a dois. O que ele vai
+  fazer eu não prometo. O que nós trabalhamos é a dinâmica, a postura, a
+  conversa e a segurança para você parar de viver em alerta.
+
+  PALCO E AVANÇO Usar os três painéis visuais. Tom de processo, não de
+  milagre.
+
+082 O que torna o processo diferente
+
+42:00 a 42:30 | LITERAL
+
+  FALA Você não recebe uma aula e volta para casa tentando adivinhar o
+  que fazer na terça-feira. Você tem sessão individual, aplicação na
+  semana, correção e próximo passo. A orientação olha a sua fase, a
+  história de vocês e a situação real que aparece dentro da sua casa.
+
+  PALCO E AVANÇO Linha de acompanhamento entra por etapas. Não citar
+  preço.
+
+083 A estrutura do ELOS
+
+42:30 a 43:00 | LITERAL
+
+  FALA São noventa dias de acompanhamento e dez sessões individuais
+  comigo. Dez momentos para olhar o que está acontecendo, orientar a
+  próxima conversa, corrigir o que saiu do caminho e construir uma
+  direção que faça sentido para o seu caso.
+
+  PALCO E AVANÇO Apontar 90 dias e 10 sessões. Não prometer participação
+  obrigatória dele.
+
+084 O Genograma Personalizado
+
+43:00 a 43:25 | GUIA
+
+  FALA Você também recebe um Genograma Personalizado. Ele ajuda a
+  enxergar o que veio antes de vocês, quais padrões foram aprendidos e
+  por que algumas reações parecem maiores do que a conversa do dia.
+  Quando você vê a raiz, deixa de tratar apenas a folha.
+
+  PALCO E AVANÇO Usar o diagrama como metáfora. Não apresentar como
+  diagnóstico médico.
+
+085 Aurora
+
+43:25 a 43:50 | GUIA
+
+  FALA Entre uma sessão e outra, existe a Aurora para apoiar quando a
+  dúvida aparece fora do horário marcado. Ela não substitui atendimento
+  nem sessão. Ela ajuda você a organizar a situação e se orientar para o
+  próximo passo.
+
+  PALCO E AVANÇO Falar apenas funções que estão prontas. Mostrar mockup
+  real.
+
+086 Comunidade Inabaláveis
+
+43:50 a 44:15 | GUIA
+
+  FALA Você também entra na Comunidade Inabaláveis. Porque parte da
+  força para continuar vem de não carregar uma história tão pesada em
+  silêncio. Comunidade não substitui atendimento. Ela sustenta
+  compromisso, pertencimento e caminhada.
+
+  PALCO E AVANÇO Tom acolhedor. Não prometer disponibilidade clínica da
+  comunidade.
+
+087 Aplicativo ELOS
+
+44:15 a 44:40 | GUIA
+
+  FALA E o aplicativo coloca ferramentas nas horas em que a conversa
+  acontece de verdade. Você não precisa lembrar de tudo no meio de uma
+  semana difícil. As ferramentas estão ali para apoiar o que trabalhamos
+  dentro do processo.
+
+  PALCO E AVANÇO Usar apenas telas reais e funções existentes. Não
+  improvisar lista longa.
+
+088 O programa como um todo
+
+44:40 a 45:05 | LITERAL
+
+  FALA Direção individual. Ferramentas. Continuidade. Comunidade. O que
+  você entendeu hoje deixa de ser uma aula bonita e vira um processo
+  acompanhado de noventa dias. É isso que o ELOS foi criado para fazer.
+
+  PALCO E AVANÇO Uma palavra por peça que encaixa. Pausa após noventa
+  dias.
+
+089 Prova antes da decisão
+
+45:05 a 45:30 | LITERAL
+
+  FALA Um marido escreveu: a distância virou conversa, a frieza virou
+  carinho e o silêncio virou presença. Repara que ele não está falando
+  de uma frase isolada. Ele está descrevendo uma mudança na forma como a
+  casa passou a funcionar.
+
+  PALCO E AVANÇO Ler as três frases em sequência. Pausa no print.
+
+090 Por que não é para todo mundo
+
+45:30 a 45:55 | LITERAL
+
+  FALA Como o acompanhamento é próximo, ele não comporta uma quantidade
+  ilimitada de pessoas. Nós abrimos no máximo dez novas entradas. Não
+  porque alguém precisa provar que é melhor do que outra pessoa, mas
+  porque direção individual exige tempo, análise e compromisso dos dois
+  lados.
+
+  PALCO E AVANÇO Tom gentil. Não dizer que ela é escolhida por
+  merecimento.
+
+091 Como alguém entra
+
+45:55 a 46:25 | LITERAL
+
+  FALA Para entrar no ELOS, você primeiro preenche uma aplicação. Depois
+  conversa com uma especialista da equipe em uma Sessão de Diagnóstico.
+  Nessa conversa, a equipe entende o caso, dá um primeiro direcionamento
+  e verifica se o Programa ELOS realmente faz sentido para você.
+
+  PALCO E AVANÇO Apontar as quatro etapas. Falar que aplicação é porta
+  do programa.
+
+092 A Sessão de Diagnóstico
+
+46:25 a 46:55 | LITERAL
+
+  FALA A Sessão de Diagnóstico dura aproximadamente quarenta e cinco
+  minutos. Ela é com uma especialista da equipe. O foco é entender a sua
+  história, dar clareza e avaliar encaixe. Quando faz sentido, a decisão
+  de entrar no ELOS pode acontecer nessa própria conversa.
+
+  PALCO E AVANÇO Tom transparente. Não vender sessão como presente
+  principal.
+
+093 O que a equipe procura
+
+46:55 a 47:20 | LITERAL
+
+  FALA O que a equipe procura é disposição real para construir um novo
+  relacionamento. Sinceridade sobre o momento que você vive. Abertura
+  para olhar para si. E disposição para executar o processo. Isso não é
+  uma prova do seu valor como mulher. É uma forma de proteger as vagas e
+  o acompanhamento.
+
+  PALCO E AVANÇO Uma palavra por clique. Sem mencionar renda.
+
+094 Se você for aceita
+
+47:20 a 47:45 | LITERAL
+
+  FALA Se você for aceita, não entra para receber mais conteúdo e ficar
+  sozinha depois. Você entra para ter direção até saber caminhar com
+  mais segurança, sem voltar para o mesmo ciclo a cada conversa difícil.
+
+  PALCO E AVANÇO Ritmo aspiracional. Reforçar direção e não dependência.
+
+095 Primeira garantia
+
+47:45 a 48:10 | LITERAL
+
+  FALA Para quem entrar no programa, existe a garantia de sete dias. Se
+  dentro desse prazo você entender que o processo não faz sentido para
+  você, solicita o reembolso conforme os termos. Eu quero que a decisão
+  seja feita com tranquilidade.
+
+  PALCO E AVANÇO Fala objetiva. Não ampliar condições.
+
+096 Garantia de Acompanhamento
+
+48:10 a 48:45 | LITERAL
+
+  FALA E existe uma segunda garantia, que eu chamo de Garantia de
+  Acompanhamento. Se você participar do processo durante os noventa
+  dias, comparecer aos encontros, aplicar as orientações e, mesmo assim,
+  ainda precisar de direção para consolidar o que começou, você recebe
+  mais três sessões individuais comigo, sem custo adicional. Você não
+  entra aqui para ser deixada sozinha quando o relógio termina.
+
+  PALCO E AVANÇO Ler exatamente. Pausa após sem custo adicional.
+
+097 Capacidade real
+
+48:45 a 49:10 | LITERAL
+
+  FALA Nesta abertura, são no máximo dez novas entradas. Esse limite
+  existe porque tem sessões, análise, acompanhamento e direção próxima.
+  Nós não vamos abrir mais gente do que conseguimos acompanhar bem.
+
+  PALCO E AVANÇO Falar sem urgência artificial. Dez pontos em tela.
+
+098 Janela de aplicação
+
+49:10 a 49:35 | LITERAL
+
+  FALA A ficha fica aberta pelas próximas quarenta e oito horas. Depois,
+  a equipe fecha as aplicações para começar as análises e organizar os
+  diagnósticos. Quem aplica antes entra antes na ordem de análise.
+
+  PALCO E AVANÇO Calendário entra. Não mencionar bônus ainda.
+
+099 Transição para a aplicação
+
+49:35 a 49:45 | LITERAL
+
+  FALA Se esse processo faz sentido para você, a aplicação vai abrir
+  agora.
+
+  PALCO E AVANÇO Fazer pausa de 3 segundos. No fim, o botão aparece e
+  avança para o slide 100.
+
+Aplicação aberta e future pace
+
+100 Aplicação aberta
+
+49:45 a 50:20 | LITERAL
+
+  FALA Apareceu aí embaixo do vídeo o botão QUERO APLICAR. Clica nele e
+  preenche a sua ficha com calma e sinceridade. Essa aplicação não é
+  para ganhar uma sessão grátis. É para ser considerada para o Programa
+  ELOS de Acompanhamento de Casais.
+
+  PALCO E AVANÇO Apontar para baixo no momento de botão. Pausa de 5
+  segundos para clique. O botão fica até o fim.
+
+101 O que a ficha faz
+
+50:20 a 50:50 | LITERAL
+
+  FALA Na ficha, a equipe vai entender tempo de relacionamento, fase
+  atual, liberdade de decisão, renda familiar e o quanto você está
+  disposta a investir mensalmente. Não existe resposta certa. Quanto
+  mais verdade você colocar, melhor a especialista consegue entender seu
+  caso e avaliar o encaixe.
+
+  PALCO E AVANÇO Tom de transparência. Não explicar renda como critério
+  em voz alta.
+
+102 O que acontece depois
+
+50:50 a 51:20 | LITERAL
+
+  FALA Depois de enviar, sua ficha é analisada. Você recebe prioridade
+  conforme a ordem de aplicação e a especialista marca a conversa. Na
+  Sessão de Diagnóstico, vocês entendem se o ELOS é realmente o caminho
+  certo para este momento.
+
+  PALCO E AVANÇO Apontar os três passos. Sem prometer horário imediato.
+
+103 Bônus até 23h59
+
+51:20 a 51:50 | LITERAL
+
+  FALA Para quem aplicar até vinte e três e cinquenta e nove de hoje,
+  existem dois bônus. O primeiro é o Fura Fila do Diagnóstico: sua ficha
+  é analisada primeiro e você tem prioridade para os primeiros horários.
+  O segundo é um Direcionamento Privado extra comigo, além das dez
+  sessões, para quem for aprovada e entrar no ELOS.
+
+  PALCO E AVANÇO Um bônus por cartão. Clareza na condição de aprovação e
+  entrada.
+
+104 Por que a prioridade existe
+
+51:50 a 52:15 | LITERAL
+
+  FALA Isso existe porque as primeiras fichas permitem organizar a
+  agenda antes dos demais diagnósticos. A aplicação continua aberta por
+  quarenta e oito horas. Mas o fura-fila e o Direcionamento Privado
+  extra terminam hoje, às vinte e três e cinquenta e nove.
+
+  PALCO E AVANÇO Tom administrativo, não empurrado.
+
+105 O convite é gentil
+
+52:15 a 52:40 | LITERAL
+
+  FALA Você não precisa provar que merece ajuda. Só precisa ser honesta
+  sobre o quanto está disposta a construir. Há poucas vagas porque o
+  acompanhamento é próximo, não porque alguém vale mais que outra
+  pessoa.
+
+  PALCO E AVANÇO Pausa entre as duas ideias. Calor humano.
+
+106 Quem deve aplicar
+
+52:40 a 53:05 | LITERAL
+
+  FALA Esta aplicação é para você que ainda quer lutar pelo casamento,
+  aceita começar pelo seu lado e quer direção para executar. Você não
+  precisa ter tudo resolvido hoje. Precisa estar disposta a não repetir
+  o mesmo caminho sozinha.
+
+  PALCO E AVANÇO Três checks entram em sequência. Tom de convite.
+
+107 Quem deve esperar
+
+53:05 a 53:30 | LITERAL
+
+  FALA Se você já decidiu sair sem olhar para trás, procura uma fórmula
+  mágica ou vive uma situação de perigo, esta aplicação não é o passo
+  certo agora. Eu respeito cada uma dessas situações. E proteção sempre
+  vem antes de qualquer processo.
+
+  PALCO E AVANÇO Sem desqualificação. Avançar sem pausa longa.
+
+108 O custo de adiar
+
+53:30 a 54:00 | LITERAL
+
+  FALA Você já sabe o preço de tentar do mesmo jeito. Talvez sejam meses
+  ou anos repetindo a mesma conversa, a mesma reação e o mesmo
+  arrependimento. Você não está atrasada e não fracassou. Mas não
+  precisa dar ao mesmo ciclo mais um ano da sua vida.
+
+  PALCO E AVANÇO Estrada circular fecha e saída aparece. Tom firme, sem
+  pânico.
+
+109 Prova Mais do que paz por alguns dias
+
+54:00 a 54:25 | LITERAL
+
+  FALA Este aluno diz que hoje eles ainda têm diferenças, mas resolvem
+  rápido, sem maiores traumas, e vivem noventa e cinco por cento de
+  momentos bons. Isso é importante: o alvo não é uma casa sem
+  discordância. É uma casa que não se destrói toda vez que discorda.
+
+  PALCO E AVANÇO Ler os dois trechos do print. Pausa breve.
+
+110 Aplicar é o primeiro passo
+
+54:25 a 54:50 | LITERAL
+
+  FALA Então clica no botão, responde a ficha e envia. Não deixa para
+  depois só porque a resposta não parece perfeita. Verdade é o que a
+  equipe precisa para entender se consegue te ajudar.
+
+  PALCO E AVANÇO Apontar clicar, responder, enviar. Fala curta e
+  operacional.
+
+111 Interação de compromisso
+
+54:50 a 55:20 | LITERAL
+
+  FALA Se você já começou a preencher, escreve EU COMEÇO no chat. Eu
+  quero ver quem decidiu parar de tentar no escuro e dar um primeiro
+  passo diferente hoje.
+
+  PALCO E AVANÇO Pausa de 7 segundos. A leitura de comentários e reação
+  ficam na planilha de chat.
+
+112 Você não entra para ficar dependente
+
+55:20 a 55:45 | LITERAL
+
+  FALA Você não entra no ELOS para ficar dependente de mim. Você entra
+  para aprender a caminhar sem voltar para o mesmo ciclo. Direção não
+  substitui a sua força. Direção organiza a força que você já tem.
+
+  PALCO E AVANÇO Olhar direto. Pausa após substitui.
+
+113 O futuro concreto Domingo de manhã
+
+55:45 a 56:10 | LITERAL
+
+  FALA Domingo de manhã. Você acorda e não começa o dia procurando no
+  rosto dele um sinal de que tem alguma coisa errada. Você não ensaia
+  mentalmente a primeira frase. A casa ainda tem vida real, mas o seu
+  corpo não desperta em alerta.
+
+  PALCO E AVANÇO Cena declarativa. Voz baixa e visual.
+
+114 O futuro concreto Cozinha
+
+56:10 a 56:35 | LITERAL
+
+  FALA Na cozinha, uma discordância aparece. E, pela primeira vez em
+  muito tempo, você não sente o estômago fechar esperando a porta bater
+  ou o silêncio durar horas. O problema aparece, vocês conversam,
+  ajustam e o dia continua.
+
+  PALCO E AVANÇO Uma cena por frase. Não prometer que toda discordância
+  será simples.
+
+115 O futuro concreto À noite
+
+56:35 a 57:00 | LITERAL
+
+  FALA À noite, você encosta a cabeça no travesseiro sem fazer aquela
+  conta de quanto tempo ainda aguenta viver assim. Não porque existe uma
+  mágica. Porque existe uma casa sendo reconstruída com direção, prática
+  e correção de rota.
+
+  PALCO E AVANÇO Fade lento. Pausa final de 2 segundos.
+
+116 A escolha permanece sua
+
+57:00 a 57:25 | LITERAL
+
+  FALA O ELOS existe para quem decidiu não atravessar este caminho sem
+  direção. Não é uma compra por impulso. É uma conversa para entender se
+  esse processo faz sentido para sua história e para o momento que você
+  está vivendo.
+
+  PALCO E AVANÇO Botão visível. Tom de agência.
+
+117 Recado operacional
+
+57:25 a 57:45 | LITERAL
+
+  FALA Recapitulando: a aplicação fica aberta por quarenta e oito horas.
+  São no máximo dez novas entradas. E até vinte e três e cinquenta e
+  nove de hoje você recebe fura-fila do diagnóstico e o Direcionamento
+  Privado extra, se for aprovada e entrar no programa.
+
+  PALCO E AVANÇO Fala direta. Não reiniciar oferta.
+
+Objeções e encerramento
+
+118 Pergunta Ele não quer participar
+
+57:45 a 58:15 | LITERAL
+
+  FALA Uma pergunta que sempre aparece é: e se ele não quiser participar
+  de nada? O programa pode começar por você. As sessões são suas. Se, em
+  algum momento, ele quiser entrar no processo, o caso é acolhido. Mas
+  você não precisa esperar ele querer para começar a trabalhar o lado
+  que está disponível.
+
+  PALCO E AVANÇO A pergunta é mostrada como chat, com nome definido
+  depois. Não prometer adesão dele.
+
+119 Pergunta Houve traição
+
+58:15 a 58:45 | LITERAL
+
+  FALA E se houve traição? Primeiro: sua dor é legítima. Restaurar não é
+  engolir, esquecer ou tirar responsabilidade de quem feriu. A sessão
+  existe justamente para entender se há disposição, limite e caminho
+  para o caso de vocês. Há histórias que recomeçaram. E cada uma precisa
+  ser olhada com cuidado.
+
+  PALCO E AVANÇO Tom sério e protetor. Não usar depoimento como pressão.
+
+120 Pergunta Ele saiu de casa
+
+58:45 a 59:15 | LITERAL
+
+  FALA E se ele já saiu de casa? O endereço não encerra toda
+  possibilidade, como você viu na história dos oito meses separados. Mas
+  eu não vou prometer o que ele vai fazer. O que a equipe faz é olhar a
+  sua história e entender qual é o próximo passo responsável.
+
+  PALCO E AVANÇO Ritmo calmo. Não prometer retorno.
+
+121 Pergunta Falta de tempo
+
+59:15 a 59:45 | LITERAL
+
+  FALA Eu trabalho e tenho filhos. Vou dar conta? As sessões são online
+  e marcadas com você. E boa parte do trabalho não é adicionar uma lista
+  impossível à sua rotina. É mudar a forma de atravessar conversas e
+  situações que já existem dentro dela.
+
+  PALCO E AVANÇO Tom prático. Não dizer que será fácil.
+
+122 Pergunta Terapia anterior
+
+59:45 a 60:15 | LITERAL
+
+  FALA Eu já procurei ajuda e não funcionou. O que é diferente? Eu não
+  tenho nada contra terapia. Ela pode ajudar muito. O ELOS é um caminho
+  com ordem, direção individual e prática entre uma sessão e outra. A
+  equipe olha o caso e ajuda você a transformar entendimento em ação.
+
+  PALCO E AVANÇO Não desqualificar terapia. Falar respeito.
+
+123 Pergunta Dinheiro do casal
+
+60:15 a 60:45 | LITERAL
+
+  FALA E se a decisão financeira também envolve ele? Coloca isso com
+  sinceridade na ficha. A especialista entende o contexto na sessão e
+  conversa com responsabilidade. A aplicação não exige que você tenha
+  tudo resolvido antes de falar com a equipe. Exige que você seja
+  verdadeira sobre o cenário.
+
+  PALCO E AVANÇO Não prometer condição, desconto ou aprovação. Sem falar
+  de seleção por renda.
+
+124 Pergunta Moro fora
+
+60:45 a 61:10 | LITERAL
+
+  FALA Moro fora do Brasil. Posso participar? Pode. As sessões são
+  online e a equipe ajusta o horário na conversa. Se esse é o seu caso,
+  coloca na ficha onde você mora para que a especialista considere isso
+  desde o início.
+
+  PALCO E AVANÇO Fala curta. A imagem sustenta.
+
+125 Pergunta Quem é Thiago
+
+61:10 a 61:35 | LITERAL
+
+  FALA E por que eu posso te acompanhar nesse processo? São mais de dez
+  anos acompanhando casais, mais de dois mil casos e uma história
+  pessoal de casamento que quase chegou ao limite. Eu não falo só de
+  teoria. Eu também precisei olhar para mim e buscar ajuda.
+
+  PALCO E AVANÇO Não adicionar titulação não confirmada. Foto autorizada
+  em tela.
+
+126 A escolha desta noite
+
+61:35 a 62:05 | LITERAL
+
+  FALA Agora a escolha é sua. Continuar tentando no escuro, do jeito que
+  você já viu onde dá, ou pedir direção para entender o seu caso.
+  Nenhuma decisão tira a sua responsabilidade. Mas uma decisão diferente
+  pode tirar você do mesmo ciclo.
+
+  PALCO E AVANÇO Duas portas. Sem seta que force a decisão.
+
+127 Último convite
+
+62:05 a 62:30 | LITERAL
+
+  FALA Se você quer ser considerada para o Programa ELOS, clica no botão
+  e preenche a ficha agora. Faz com calma, mas faz com verdade. A equipe
+  vai ler o que você escrever e entender se existe encaixe para o
+  processo.
+
+  PALCO E AVANÇO Pausa de 5 segundos para ação. Não abrir argumento
+  novo.
+
+128 O que ela leva mesmo antes do ELOS
+
+62:30 a 62:55 | GUIA
+
+  FALA Mesmo que você ainda não aplique, leva três compromissos para
+  esta semana: pausar a escalada, voltar para si e reescrever uma
+  conversa. Faz isso. Você já começou a mudar o ponto de partida.
+
+  PALCO E AVANÇO Três cartões pequenos. Entregar valor e manter o botão
+  visível.
+
+129 A frase que fica
+
+62:55 a 63:25 | LITERAL
+
+  FALA Não precisa que os dois queiram para começar. Precisa que um
+  comece, do jeito certo, com direção. Você pode começar sozinha. Mas
+  não precisa seguir sem direção até o fim.
+
+  PALCO E AVANÇO Dizer devagar. Silêncio de 3 segundos ao final.
+
+130 Encaminhamento
+
+63:25 a 63:55 | LITERAL
+
+  FALA Depois que você enviar a ficha, a equipe analisa e entra em
+  contato para a Sessão de Diagnóstico. A aplicação fica aberta por
+  quarenta e oito horas. Se fizer sentido para o seu caso, eu espero
+  encontrar você dentro do Programa ELOS.
+
+  PALCO E AVANÇO Tom de encaminhamento, não despedida ainda.
+
+131 Fechamento de fé
+
+63:55 a 64:25 | GUIA
+
+  FALA Eu peço que Deus te dê clareza, coragem e direção para o próximo
+  passo. Que você não decida pelo medo, nem continue lutando sem saber
+  para onde está indo. Obrigado por ficar comigo até aqui.
+
+  PALCO E AVANÇO Breve, em tom de oração/encorajamento. Sem prometer
+  resultado divino.
+
+132 Tela de encerramento
+
+64:25 a 64:45 | SEM FALA
+
+  FALA A aplicação continua aberta.
+
+  PALCO E AVANÇO Encerrar fala. Manter tela final e botão por 20
+  segundos, com música baixa.
+
+Ensaio obrigatório
+
+-   Ensaiar com cronômetro visível e registrar em que segundo cada slide
+    foi avançado. O alvo não é falar rápido; é eliminar digressões.
+
+-   Criar a planilha de chat fake a partir da gravação cronometrada:
+    tempo, nome, comentário, slide, Thiago lê ou não lê e reação.
+
+-   Revisar os termos da garantia antes de gravar os slides 95 e 96.
+
+-   Usar apenas prints, fotos e interfaces que tenham autorização ou que
+    correspondam ao que está operacionalmente pronto.
+
+-   Depois do ensaio, ajustar somente as falas que excederem o bloco.
+    Não deslocar o CTA para acomodar improviso.

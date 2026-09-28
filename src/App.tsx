@@ -7,7 +7,7 @@ import { IS_PRESENTER, cliqueNavega, useDeck, useStageScale } from "@/lib/useDec
 
 /* Cor de letterbox por temperatura. Em 16:9 ela é invisível; em 16:10
    (notebook) as faixas leem como matte de propósito. */
-const LETTERBOX: Record<string, string> = { warm: "#FAF9F7", cold: "#151922" };
+const LETTERBOX: Record<string, string> = { warm: "#FBF6ED", cold: "#422B25" };
 
 export default function App() {
   const { index, passo, total, proximo, inicioAula, entrouNoSlide, forcarSincronia } = useDeck(SLIDES.length, PASSOS);

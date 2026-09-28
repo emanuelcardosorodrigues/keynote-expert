@@ -5,7 +5,7 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const SLUG = "lps-slide-aula06";
+const SLUG = "pac-web01-slides";
 const distDir = path.resolve(__dirname, `dist/${SLUG}`);
 const htmlPath = path.join(distDir, "index.html");
 
@@ -41,14 +41,14 @@ if (fonts.length === 0) {
   process.exit(1);
 }
 
-// Sanidade do base path: todo href/src do documento tem que estar sob /p/<slug>/.
+// Sanidade do base path: todo href/src do documento tem que estar sob /<slug>/.
 const badRefs = [...html.matchAll(/(?:href|src)="(\/[^"]*)"/g)]
   .map((m) => m[1])
-  .filter((u) => !u.startsWith(`/p/${SLUG}/`));
+  .filter((u) => !u.startsWith(`/${SLUG}/`));
 if (badRefs.length) {
-  console.error(`post-build: refs fora do base /p/${SLUG}/:`, badRefs);
+  console.error(`post-build: refs fora do base /${SLUG}/:`, badRefs);
   process.exit(1);
 }
 
-// Este deck é 100% tipografia, ícone e motion: mídia zero é o esperado.
+// O briefing ELOS inclui cenas editoriais e depoimentos autorizados.
 console.log(`✓ ${SLUG}: ${css.length} CSS, ${fonts.length} fontes`);
